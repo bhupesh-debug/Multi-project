@@ -1,0 +1,84 @@
+{
+  "data": {
+    "n_programs": 240,
+    "n_burn_rows": 1440,
+    "synthetic": true,
+    "seed": 42
+  },
+  "regression_rnpv_usd_m": {
+    "Linear Regression (baseline)": {
+      "r2_test": 0.4692,
+      "rmse_test_usd_m": 235.07,
+      "mae_test_usd_m": 179.84,
+      "r2_cv_mean": 0.2664,
+      "r2_cv_std": 0.2846
+    },
+    "Ridge (baseline)": {
+      "r2_test": 0.4771,
+      "rmse_test_usd_m": 233.31,
+      "mae_test_usd_m": 177.55,
+      "r2_cv_mean": 0.2872,
+      "r2_cv_std": 0.2777
+    },
+    "Random Forest": {
+      "r2_test": 0.9492,
+      "rmse_test_usd_m": 72.7,
+      "mae_test_usd_m": 35.53,
+      "r2_cv_mean": 0.2821,
+      "r2_cv_std": 1.0222
+    },
+    "Gradient Boosting": {
+      "r2_test": 0.9638,
+      "rmse_test_usd_m": 61.36,
+      "mae_test_usd_m": 33.03,
+      "r2_cv_mean": 0.4985,
+      "r2_cv_std": 0.7081
+    }
+  },
+  "regression_best": "Gradient Boosting",
+  "classification_transition_success": {
+    "Logistic Regression (baseline)": {
+      "roc_auc_test": 0.7024,
+      "accuracy_test": 0.6667,
+      "precision_test": 0.6667,
+      "recall_test": 0.3158,
+      "f1_test": 0.4286,
+      "roc_auc_cv_mean": 0.436
+    },
+    "Random Forest": {
+      "roc_auc_test": 0.5454,
+      "accuracy_test": 0.6042,
+      "precision_test": 0.5,
+      "recall_test": 0.1579,
+      "f1_test": 0.24,
+      "roc_auc_cv_mean": 0.5019
+    }
+  },
+  "classification_best": "Logistic Regression (baseline)",
+  "monte_carlo": {
+    "n_sims": 10000,
+    "base_cost_usd_m": 36.0,
+    "base_months": 30,
+    "approved_budget_usd_m": 40.0,
+    "cost_p50_usd_m": 35.88,
+    "cost_p80_usd_m": 44.2,
+    "cost_p90_usd_m": 49.57,
+    "cost_mean_usd_m": 37.06,
+    "months_p50": 30.0,
+    "months_p90": 36.0,
+    "prob_budget_breach": 0.3322,
+    "prob_overrun_20pct": 0.2279
+  },
+  "charts": {
+    "feature_importance": "/home/hatch/workspace/ml-project-lifesci-clinical-finance/reports/figures/feature_importance.png",
+    "model_comparison": "/home/hatch/workspace/ml-project-lifesci-clinical-finance/reports/figures/model_comparison.png",
+    "rnpv_distribution": "/home/hatch/workspace/ml-project-lifesci-clinical-finance/reports/figures/rnpv_distribution.png",
+    "burn_variance": "/home/hatch/workspace/ml-project-lifesci-clinical-finance/reports/figures/burn_variance.png",
+    "monte_carlo": "/home/hatch/workspace/ml-project-lifesci-clinical-finance/reports/figures/monte_carlo.png"
+  },
+  "rnpv_summary_usd_m": {
+    "median": 108.94,
+    "mean": 256.79,
+    "share_positive": 0.921
+  }
+}

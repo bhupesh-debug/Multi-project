@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Generated artefacts are reproducible from source; keep them out of git
+# by default (uncomment to commit them instead):
+# data/synthetic/
+# data/processed/
+# models/*.pkl

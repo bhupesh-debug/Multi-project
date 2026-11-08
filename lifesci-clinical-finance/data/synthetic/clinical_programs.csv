@@ -1,0 +1,241 @@
+program_id,therapeutic_area,modality,phase,indication_complexity_1_5,unmet_need_1_5,competitive_intensity_1_5,enrollment_target,sites,duration_months,monthly_burn_usd_m,peak_sales_usd_m,cost_to_complete_usd_m,discount_rate,pos_next_phase_illustrative,pos_to_approval_illustrative,rnpv_usd_m,transition_success,is_synthetic
+SYN-P001,Oncology,RNA / Oligonucleotide,Phase I,3,5,1,12,1,20,1.008,413.7,20.77,0.12,0.672,0.12,67.42,1,True
+SYN-P002,Neurology,Vaccine,Phase II,3,5,3,153,10,24,1.945,401.5,53.83,0.1,0.371,0.22,116.0,1,True
+SYN-P003,Oncology,Vaccine,Phase III,4,4,4,1067,125,44,1.521,2886.3,82.79,0.08,0.6,0.55,3121.01,1,True
+SYN-P004,Infectious Disease,Cell Therapy,Phase II,4,1,3,155,14,33,1.806,684.8,70.5,0.08,0.308,0.22,239.6,0,True
+SYN-P005,Infectious Disease,Cell Therapy,Phase I,2,4,4,49,6,21,1.698,113.2,41.44,0.08,0.576,0.12,-11.42,1,True
+SYN-P006,Cardiology,Gene Therapy,Preclinical,2,1,3,0,3,23,0.476,310.7,12.09,0.1,0.294,0.08,35.38,0,True
+SYN-P007,Cardiology,RNA / Oligonucleotide,Preclinical,2,2,3,0,3,16,0.595,151.5,8.31,0.08,0.311,0.08,16.48,1,True
+SYN-P008,Infectious Disease,Monoclonal Antibody,Phase II,1,3,3,268,20,32,0.834,302.9,23.65,0.12,0.322,0.22,95.53,0,True
+SYN-P009,Rare Disease,Cell Therapy,Preclinical,5,3,5,0,1,20,1.73,384.4,33.58,0.12,0.329,0.08,22.91,0,True
+SYN-P010,Cardiology,Vaccine,Preclinical,1,2,5,0,2,12,0.975,1352.3,13.59,0.12,0.283,0.08,175.26,0,True
+SYN-P011,Rare Disease,Cell Therapy,Phase I,1,1,3,51,4,22,1.368,246.0,35.89,0.12,0.492,0.12,18.98,0,True
+SYN-P012,Immunology,RNA / Oligonucleotide,Phase I,2,4,1,36,3,21,1.354,1427.3,27.92,0.1,0.63,0.12,294.12,1,True
+SYN-P013,Rare Disease,Small Molecule,Phase II,4,1,2,189,15,33,1.062,111.8,36.55,0.12,0.319,0.22,11.49,0,True
+SYN-P014,Oncology,Small Molecule,Phase II,4,3,3,143,10,31,0.767,289.0,24.38,0.12,0.343,0.22,89.48,1,True
+SYN-P015,Immunology,RNA / Oligonucleotide,Phase III,3,1,2,372,23,41,3.173,472.2,116.19,0.1,0.534,0.55,386.21,0,True
+SYN-P016,Infectious Disease,Monoclonal Antibody,Preclinical,1,3,3,0,2,13,1.903,186.3,30.46,0.1,0.322,0.08,-1.1,0,True
+SYN-P017,Neurology,Vaccine,Phase III,2,1,1,756,57,34,1.319,1739.6,54.1,0.08,0.54,0.55,1875.88,1,True
+SYN-P018,Infectious Disease,Cell Therapy,Phase III,2,2,4,1248,136,51,1.327,139.5,64.05,0.08,0.516,0.55,99.93,0,True
+SYN-P019,Oncology,Vaccine,Preclinical,1,2,3,0,3,26,0.734,749.4,23.64,0.12,0.304,0.08,83.33,0,True
+SYN-P020,Immunology,Small Molecule,Preclinical,1,2,2,0,1,21,0.389,402.0,9.21,0.12,0.315,0.08,47.58,1,True
+SYN-P021,Cardiology,Vaccine,Phase II,5,1,4,222,23,32,0.919,312.7,30.74,0.1,0.304,0.22,101.38,0,True
+SYN-P022,Cardiology,Gene Therapy,Phase III,2,3,1,976,62,35,1.261,515.8,54.57,0.08,0.6,0.55,521.82,0,True
+SYN-P023,Cardiology,RNA / Oligonucleotide,Phase II,5,4,4,244,26,25,0.837,60.8,22.23,0.12,0.357,0.22,3.5,0,True
+SYN-P024,Cardiology,RNA / Oligonucleotide,Phase I,4,1,2,55,3,9,0.536,2854.3,4.56,0.12,0.546,0.12,591.15,0,True
+SYN-P025,Rare Disease,Vaccine,Preclinical,1,3,3,0,2,28,0.697,336.8,23.78,0.08,0.322,0.08,32.46,1,True
+SYN-P026,Oncology,Monoclonal Antibody,Preclinical,3,1,3,0,1,16,1.363,254.8,23.69,0.1,0.301,0.08,15.83,0,True
+SYN-P027,Rare Disease,RNA / Oligonucleotide,Phase II,2,4,5,164,19,29,3.795,1730.7,111.87,0.08,0.326,0.22,663.88,0,True
+SYN-P028,Oncology,Vaccine,Preclinical,3,1,5,0,1,20,0.46,967.7,11.14,0.08,0.28,0.08,145.26,0,True
+SYN-P029,Neurology,RNA / Oligonucleotide,Phase III,4,4,4,867,60,42,2.696,41.7,113.69,0.12,0.6,0.55,-53.36,0,True
+SYN-P030,Neurology,Monoclonal Antibody,Preclinical,3,3,1,0,2,28,0.516,913.9,14.17,0.1,0.357,0.08,123.84,0,True
+SYN-P031,Immunology,Monoclonal Antibody,Phase III,2,4,5,1445,121,44,3.131,623.5,161.43,0.1,0.558,0.55,504.77,0,True
+SYN-P032,Cardiology,Small Molecule,Phase II,2,1,2,280,15,30,2.285,825.5,78.17,0.1,0.304,0.22,269.72,0,True
+SYN-P033,Oncology,RNA / Oligonucleotide,Phase III,1,1,5,1376,79,37,0.687,432.6,27.61,0.08,0.456,0.55,454.03,0,True
+SYN-P034,Oncology,Monoclonal Antibody,Phase II,1,1,3,43,3,30,1.507,1798.7,49.27,0.08,0.287,0.22,751.16,1,True
+SYN-P035,Infectious Disease,RNA / Oligonucleotide,Preclinical,1,3,4,0,3,14,1.877,1098.7,31.78,0.1,0.311,0.08,134.06,0,True
+SYN-P036,Cardiology,Monoclonal Antibody,Phase I,3,2,2,45,2,13,1.12,1593.3,15.6,0.08,0.564,0.12,369.59,0,True
+SYN-P037,Immunology,RNA / Oligonucleotide,Phase II,1,2,4,285,14,33,4.317,349.2,128.04,0.12,0.294,0.22,24.01,0,True
+SYN-P038,Oncology,RNA / Oligonucleotide,Preclinical,1,3,4,0,3,10,0.497,205.5,4.82,0.1,0.311,0.08,26.06,0,True
+SYN-P039,Infectious Disease,Gene Therapy,Phase III,1,1,5,751,41,46,1.295,832.5,72.01,0.12,0.456,0.55,738.14,1,True
+SYN-P040,Oncology,Cell Therapy,Phase III,1,5,1,775,48,40,1.125,886.1,49.16,0.12,0.648,0.55,806.65,1,True
+SYN-P041,Rare Disease,Monoclonal Antibody,Preclinical,5,4,5,0,3,19,2.185,1387.4,35.95,0.12,0.347,0.08,160.11,1,True
+SYN-P042,Oncology,Small Molecule,Phase II,3,4,3,155,15,21,0.736,304.3,17.53,0.1,0.353,0.22,108.88,0,True
+SYN-P043,Rare Disease,Gene Therapy,Preclinical,1,4,1,0,1,17,0.438,968.5,6.6,0.12,0.36,0.08,128.62,0,True
+SYN-P044,Neurology,Gene Therapy,Phase III,3,2,4,1003,102,49,0.994,111.2,55.03,0.08,0.528,0.55,75.98,0,True
+SYN-P045,Cardiology,Small Molecule,Phase II,1,4,3,370,39,30,1.311,1106.4,40.16,0.12,0.339,0.22,388.35,0,True
+SYN-P046,Cardiology,Vaccine,Phase I,3,5,2,10,1,17,1.021,2401.3,16.32,0.08,0.654,0.12,564.12,1,True
+SYN-P047,Cardiology,Gene Therapy,Phase II,4,3,4,267,15,36,0.64,422.4,22.91,0.12,0.333,0.22,142.24,0,True
+SYN-P048,Cardiology,Gene Therapy,Phase III,5,5,3,846,48,44,0.751,764.5,39.22,0.12,0.66,0.55,699.21,1,True
+SYN-P049,Oncology,Gene Therapy,Preclinical,2,4,2,0,1,15,0.401,109.4,6.01,0.12,0.357,0.08,9.62,1,True
+SYN-P050,Neurology,Gene Therapy,Preclinical,3,2,3,0,3,32,1.524,253.8,54.87,0.08,0.319,0.08,-8.68,0,True
+SYN-P051,Rare Disease,Vaccine,Preclinical,4,4,2,0,3,22,0.822,942.3,22.53,0.1,0.371,0.08,120.11,0,True
+SYN-P052,Neurology,Vaccine,Phase III,4,1,3,760,84,42,1.383,1717.3,52.87,0.1,0.528,0.55,1718.87,1,True
+SYN-P053,Neurology,Vaccine,Preclinical,4,2,1,0,1,14,2.256,48.7,27.91,0.08,0.346,0.08,-18.85,0,True
+SYN-P054,Neurology,Vaccine,Phase II,4,3,4,207,23,23,1.77,762.5,48.35,0.08,0.333,0.22,292.49,0,True
+SYN-P055,Immunology,RNA / Oligonucleotide,Phase II,5,3,5,161,8,22,0.736,394.1,19.7,0.1,0.329,0.22,143.84,1,True
+SYN-P056,Cardiology,Small Molecule,Preclinical,2,2,1,0,2,21,1.331,114.1,23.84,0.12,0.332,0.08,-5.72,1,True
+SYN-P057,Neurology,RNA / Oligonucleotide,Phase II,4,5,5,316,18,32,0.319,148.3,11.87,0.1,0.357,0.22,50.47,0,True
+SYN-P058,Oncology,Small Molecule,Phase II,5,3,4,238,12,22,1.376,2163.4,34.81,0.1,0.34,0.22,856.8,0,True
+SYN-P059,Oncology,Small Molecule,Preclinical,3,4,5,0,2,22,1.371,85.0,30.6,0.08,0.333,0.08,-14.84,1,True
+SYN-P060,Rare Disease,Monoclonal Antibody,Phase III,3,2,5,1140,135,31,1.613,165.6,56.01,0.12,0.51,0.55,109.98,0,True
+SYN-P061,Rare Disease,Small Molecule,Phase II,5,2,5,238,22,38,0.942,432.3,37.8,0.08,0.311,0.22,157.83,1,True
+SYN-P062,Rare Disease,RNA / Oligonucleotide,Phase III,3,4,4,572,31,51,4.877,291.6,270.15,0.1,0.588,0.55,78.85,1,True
+SYN-P063,Immunology,Gene Therapy,Preclinical,5,4,1,0,3,9,1.763,2664.2,15.37,0.1,0.389,0.08,383.14,0,True
+SYN-P064,Cardiology,Small Molecule,Phase II,1,5,5,86,6,27,3.316,359.1,89.19,0.12,0.336,0.22,58.84,1,True
+SYN-P065,Immunology,Monoclonal Antibody,Preclinical,2,3,5,0,2,25,1.004,91.6,28.88,0.1,0.308,0.08,-12.47,1,True
+SYN-P066,Cardiology,Cell Therapy,Phase I,5,3,2,46,3,6,1.848,536.7,10.75,0.12,0.618,0.12,101.53,1,True
+SYN-P067,Neurology,Monoclonal Antibody,Phase III,1,1,2,1032,58,40,1.881,737.2,93.89,0.1,0.51,0.55,676.98,0,True
+SYN-P068,Rare Disease,RNA / Oligonucleotide,Phase III,5,3,1,1149,124,39,0.95,557.2,37.91,0.08,0.636,0.55,582.94,0,True
+SYN-P069,Oncology,RNA / Oligonucleotide,Preclinical,1,1,2,0,2,12,1.074,1143.6,11.22,0.08,0.297,0.08,173.22,1,True
+SYN-P070,Cardiology,Cell Therapy,Preclinical,5,4,3,0,1,21,1.062,752.2,18.97,0.08,0.367,0.08,103.3,0,True
+SYN-P071,Oncology,Small Molecule,Phase II,1,2,3,99,7,27,0.684,385.2,18.08,0.1,0.304,0.22,141.99,0,True
+SYN-P072,Neurology,Vaccine,Phase I,4,4,2,50,5,13,1.535,442.6,17.34,0.08,0.636,0.12,90.19,0,True
+SYN-P073,Oncology,Small Molecule,Preclinical,1,5,1,0,1,6,2.082,1223.2,13.57,0.08,0.378,0.08,183.51,0,True
+SYN-P074,Immunology,Small Molecule,Phase III,3,4,3,782,42,42,1.018,168.5,46.66,0.08,0.606,0.55,145.62,0,True
+SYN-P075,Oncology,Cell Therapy,Phase III,1,2,3,1039,98,45,1.803,745.1,69.93,0.12,0.522,0.55,655.97,1,True
+SYN-P076,Immunology,Small Molecule,Preclinical,4,4,5,0,3,28,2.534,528.4,77.16,0.08,0.34,0.08,14.49,1,True
+SYN-P077,Oncology,RNA / Oligonucleotide,Preclinical,4,4,3,0,1,17,1.149,2117.6,21.17,0.12,0.36,0.08,275.01,1,True
+SYN-P078,Cardiology,Vaccine,Phase III,3,3,1,852,98,34,1.59,597.3,64.03,0.1,0.612,0.55,557.47,1,True
+SYN-P079,Oncology,Gene Therapy,Phase I,5,5,5,28,1,22,1.478,1337.9,35.01,0.08,0.624,0.12,290.29,0,True
+SYN-P080,Rare Disease,Vaccine,Phase I,5,3,5,31,2,16,0.849,555.9,13.69,0.08,0.564,0.12,121.17,0,True
+SYN-P081,Immunology,Small Molecule,Phase III,2,1,4,533,39,30,1.219,431.9,38.65,0.08,0.486,0.55,442.67,0,True
+SYN-P082,Cardiology,RNA / Oligonucleotide,Phase III,5,3,3,780,42,36,1.003,1517.8,41.43,0.08,0.6,0.55,1642.12,1,True
+SYN-P083,Neurology,Vaccine,Phase I,5,4,5,41,3,39,1.917,222.2,81.54,0.12,0.594,0.12,-21.47,0,True
+SYN-P084,Cardiology,Cell Therapy,Preclinical,2,2,2,0,2,18,1.444,615.7,25.62,0.08,0.322,0.08,74.89,1,True
+SYN-P085,Infectious Disease,Monoclonal Antibody,Phase III,1,3,5,681,65,33,0.959,248.1,30.18,0.08,0.516,0.55,247.31,1,True
+SYN-P086,Oncology,Small Molecule,Phase II,5,4,3,69,6,28,1.134,409.6,38.44,0.08,0.367,0.22,146.11,0,True
+SYN-P087,Infectious Disease,Cell Therapy,Preclinical,5,3,1,0,3,15,0.303,90.6,4.98,0.08,0.371,0.08,9.83,0,True
+SYN-P088,Cardiology,Small Molecule,Phase I,3,1,1,30,1,22,0.516,596.4,13.1,0.12,0.552,0.12,112.63,0,True
+SYN-P089,Oncology,Monoclonal Antibody,Phase III,3,1,2,497,44,35,0.794,600.4,28.62,0.12,0.534,0.55,549.88,1,True
+SYN-P090,Infectious Disease,RNA / Oligonucleotide,Phase III,3,5,4,1066,97,30,1.008,192.5,36.45,0.1,0.618,0.55,165.34,0,True
+SYN-P091,Neurology,Gene Therapy,Phase II,3,3,2,202,21,30,1.536,1198.7,56.74,0.1,0.346,0.22,442.05,1,True
+SYN-P092,Immunology,Gene Therapy,Phase I,1,2,5,52,2,25,1.572,1237.1,39.7,0.08,0.486,0.12,261.94,0,True
+SYN-P093,Cardiology,Monoclonal Antibody,Phase III,1,5,5,357,36,44,0.633,221.3,27.49,0.12,0.576,0.55,189.29,0,True
+SYN-P094,Cardiology,Gene Therapy,Phase III,4,4,5,941,70,41,1.177,123.0,46.44,0.08,0.582,0.55,95.35,1,True
+SYN-P095,Immunology,Cell Therapy,Preclinical,3,1,4,0,2,19,1.685,170.8,36.51,0.12,0.29,0.08,-9.62,0,True
+SYN-P096,Immunology,Gene Therapy,Phase II,3,4,5,102,10,34,1.474,741.8,51.61,0.08,0.333,0.22,281.96,0,True
+SYN-P097,Infectious Disease,Monoclonal Antibody,Phase II,5,4,4,287,14,40,2.473,380.5,106.31,0.08,0.357,0.22,74.86,0,True
+SYN-P098,Rare Disease,RNA / Oligonucleotide,Phase I,5,1,4,29,2,23,1.202,570.5,30.88,0.08,0.522,0.12,109.01,0,True
+SYN-P099,Cardiology,Monoclonal Antibody,Phase I,1,5,1,32,1,13,0.684,440.2,8.54,0.12,0.648,0.12,83.81,1,True
+SYN-P100,Oncology,Monoclonal Antibody,Phase III,4,4,2,1094,66,39,0.362,433.9,15.53,0.08,0.636,0.55,466.29,0,True
+SYN-P101,Neurology,Gene Therapy,Phase II,2,3,1,179,9,35,0.883,867.3,36.83,0.08,0.35,0.22,350.85,0,True
+SYN-P102,Neurology,RNA / Oligonucleotide,Phase II,3,5,2,153,8,33,0.709,622.7,26.86,0.12,0.381,0.22,215.2,0,True
+SYN-P103,Rare Disease,Small Molecule,Phase II,3,4,2,231,20,30,1.533,365.7,43.12,0.1,0.364,0.22,111.95,0,True
+SYN-P104,Rare Disease,Gene Therapy,Preclinical,1,1,2,0,2,26,1.15,351.8,26.8,0.12,0.297,0.08,25.23,0,True
+SYN-P105,Immunology,Vaccine,Preclinical,5,1,1,0,2,34,0.869,1528.5,25.94,0.12,0.336,0.08,190.51,0,True
+SYN-P106,Oncology,Monoclonal Antibody,Phase III,2,2,4,459,25,45,1.031,245.6,48.73,0.08,0.516,0.55,229.51,0,True
+SYN-P107,Rare Disease,Small Molecule,Phase III,5,1,3,1397,83,47,2.376,1161.4,113.9,0.08,0.54,0.55,1186.81,0,True
+SYN-P108,Oncology,RNA / Oligonucleotide,Phase III,2,4,5,649,49,47,2.719,328.9,133.74,0.08,0.558,0.55,248.81,1,True
+SYN-P109,Infectious Disease,Gene Therapy,Preclinical,5,2,1,0,1,12,1.537,421.2,18.9,0.1,0.353,0.08,44.9,0,True
+SYN-P110,Oncology,Small Molecule,Phase II,4,5,2,201,10,24,1.038,226.6,22.1,0.08,0.388,0.22,79.81,0,True
+SYN-P111,Cardiology,RNA / Oligonucleotide,Phase I,2,4,2,40,2,6,0.399,257.6,2.75,0.1,0.612,0.12,55.03,1,True
+SYN-P112,Rare Disease,Small Molecule,Preclinical,1,1,1,0,3,19,2.038,536.8,43.04,0.08,0.308,0.08,45.88,0,True
+SYN-P113,Immunology,Monoclonal Antibody,Phase III,5,5,5,453,42,39,1.043,108.2,43.79,0.12,0.624,0.55,67.04,0,True
+SYN-P114,Cardiology,Cell Therapy,Preclinical,4,3,1,0,3,6,1.125,171.1,7.78,0.1,0.364,0.08,17.96,0,True
+SYN-P115,Immunology,Gene Therapy,Phase I,4,2,1,21,1,15,1.7,416.0,23.84,0.1,0.594,0.12,70.75,0,True
+SYN-P116,Rare Disease,Gene Therapy,Preclinical,5,5,1,0,2,24,1.042,825.0,23.41,0.1,0.406,0.08,101.95,1,True
+SYN-P117,Cardiology,Monoclonal Antibody,Phase I,4,5,1,21,1,22,1.134,233.9,24.4,0.1,0.684,0.12,30.05,1,True
+SYN-P118,Immunology,Gene Therapy,Phase I,2,5,4,33,1,15,0.279,121.5,3.75,0.1,0.606,0.12,23.69,1,True
+SYN-P119,Cardiology,Monoclonal Antibody,Phase III,5,1,5,1029,51,36,1.601,809.2,70.86,0.08,0.504,0.55,832.03,0,True
+SYN-P120,Cardiology,Vaccine,Phase III,1,2,3,927,72,37,1.218,701.9,41.79,0.12,0.522,0.55,636.12,0,True
+SYN-P121,Oncology,Small Molecule,Phase I,3,4,3,54,3,17,0.444,359.9,7.41,0.08,0.606,0.12,79.85,1,True
+SYN-P122,Immunology,Cell Therapy,Phase II,3,2,3,171,14,29,3.124,272.1,103.21,0.12,0.319,0.22,14.08,1,True
+SYN-P123,Immunology,RNA / Oligonucleotide,Phase III,3,3,2,636,33,45,1.663,1674.9,91.91,0.12,0.594,0.55,1527.34,0,True
+SYN-P124,Immunology,Vaccine,Preclinical,3,4,1,0,3,20,1.064,1229.7,25.34,0.12,0.374,0.08,147.99,0,True
+SYN-P125,Neurology,Cell Therapy,Preclinical,3,4,5,0,1,17,3.612,881.9,58.83,0.12,0.333,0.08,68.37,0,True
+SYN-P126,Oncology,Small Molecule,Phase II,3,2,5,98,5,23,0.706,440.7,16.23,0.08,0.297,0.22,179.93,0,True
+SYN-P127,Oncology,Gene Therapy,Phase II,3,4,5,143,10,13,0.991,145.2,15.05,0.08,0.333,0.22,49.81,1,True
+SYN-P128,Infectious Disease,RNA / Oligonucleotide,Phase III,2,1,1,1018,75,49,0.79,253.6,38.74,0.12,0.54,0.55,211.77,1,True
+SYN-P129,Cardiology,Gene Therapy,Phase II,3,5,2,210,20,18,0.664,924.4,12.1,0.08,0.381,0.22,397.62,0,True
+SYN-P130,Rare Disease,Monoclonal Antibody,Phase II,1,5,5,203,15,32,1.528,261.4,60.99,0.1,0.336,0.22,53.67,1,True
+SYN-P131,Infectious Disease,Monoclonal Antibody,Phase I,4,3,5,36,1,12,1.457,2349.4,15.95,0.12,0.552,0.12,475.11,0,True
+SYN-P132,Cardiology,Vaccine,Phase I,3,4,3,52,2,25,0.974,589.6,30.09,0.08,0.606,0.12,114.53,0,True
+SYN-P133,Oncology,Small Molecule,Phase III,4,1,5,1027,53,41,1.466,692.8,64.16,0.12,0.492,0.55,609.64,0,True
+SYN-P134,Infectious Disease,Cell Therapy,Phase II,4,3,3,207,16,30,2.385,158.0,83.14,0.12,0.343,0.22,-11.72,0,True
+SYN-P135,Immunology,Vaccine,Preclinical,4,2,1,0,3,29,1.672,356.4,59.37,0.08,0.346,0.08,3.25,0,True
+SYN-P136,Oncology,Monoclonal Antibody,Preclinical,2,1,5,0,1,14,1.758,528.8,26.21,0.1,0.273,0.08,54.2,1,True
+SYN-P137,Cardiology,Gene Therapy,Phase II,5,4,5,317,26,24,4.089,1028.8,120.54,0.12,0.347,0.22,285.9,0,True
+SYN-P138,Immunology,Small Molecule,Preclinical,3,4,2,0,1,12,1.888,962.3,25.8,0.1,0.364,0.08,119.15,1,True
+SYN-P139,Rare Disease,Vaccine,Preclinical,5,1,3,0,2,19,1.146,282.7,27.17,0.08,0.315,0.08,19.92,0,True
+SYN-P140,Immunology,Vaccine,Preclinical,3,4,3,0,1,17,1.408,3406.6,24.84,0.08,0.353,0.08,524.62,0,True
+SYN-P141,Neurology,Cell Therapy,Preclinical,5,5,4,0,2,15,2.689,379.0,48.1,0.12,0.374,0.08,7.91,1,True
+SYN-P142,Cardiology,Cell Therapy,Phase II,4,5,5,154,11,35,1.227,132.0,44.4,0.1,0.357,0.22,15.59,0,True
+SYN-P143,Neurology,Cell Therapy,Preclinical,1,2,4,0,1,16,1.097,2770.1,21.63,0.12,0.294,0.08,365.25,1,True
+SYN-P144,Neurology,Monoclonal Antibody,Phase I,2,3,1,44,2,15,1.945,122.1,26.52,0.12,0.6,0.12,0.77,1,True
+SYN-P145,Neurology,Monoclonal Antibody,Preclinical,4,3,5,0,3,15,0.654,561.6,11.27,0.08,0.322,0.08,79.62,0,True
+SYN-P146,Rare Disease,Cell Therapy,Phase I,5,2,2,44,3,22,0.377,404.0,8.09,0.08,0.588,0.12,89.97,1,True
+SYN-P147,Neurology,Small Molecule,Phase I,3,5,2,16,1,15,2.469,316.3,44.33,0.1,0.654,0.12,29.11,1,True
+SYN-P148,Infectious Disease,Cell Therapy,Phase III,5,3,4,1239,138,40,0.371,732.0,15.03,0.1,0.582,0.55,738.92,1,True
+SYN-P149,Cardiology,Gene Therapy,Preclinical,5,4,2,0,1,7,0.719,1644.2,6.07,0.12,0.378,0.08,222.83,1,True
+SYN-P150,Oncology,Cell Therapy,Phase I,5,4,4,15,1,23,1.492,102.5,29.96,0.12,0.612,0.12,-5.49,0,True
+SYN-P151,Rare Disease,Cell Therapy,Phase III,1,4,4,1143,64,41,0.967,476.4,44.45,0.08,0.564,0.55,488.03,0,True
+SYN-P152,Immunology,Monoclonal Antibody,Phase I,2,5,3,50,3,20,1.063,571.1,21.29,0.08,0.624,0.12,117.87,0,True
+SYN-P153,Infectious Disease,Monoclonal Antibody,Preclinical,3,3,2,0,3,20,2.309,366.0,54.21,0.12,0.346,0.08,1.58,0,True
+SYN-P154,Oncology,Cell Therapy,Phase I,4,2,1,26,2,11,0.553,359.2,6.85,0.08,0.594,0.12,80.08,1,True
+SYN-P155,Infectious Disease,Gene Therapy,Phase III,3,1,2,563,33,48,2.406,116.8,106.73,0.1,0.534,0.55,31.74,1,True
+SYN-P156,Immunology,Monoclonal Antibody,Phase III,4,3,5,990,87,41,1.253,228.1,51.93,0.12,0.552,0.55,175.34,0,True
+SYN-P157,Neurology,Gene Therapy,Preclinical,2,1,1,0,3,22,2.291,499.4,60.0,0.1,0.315,0.08,19.62,0,True
+SYN-P158,Oncology,Monoclonal Antibody,Preclinical,5,5,3,0,1,13,1.3,413.6,19.64,0.08,0.385,0.08,47.71,0,True
+SYN-P159,Infectious Disease,Vaccine,Phase III,3,1,3,436,24,27,1.714,109.7,48.65,0.12,0.516,0.55,62.08,0,True
+SYN-P160,Cardiology,Vaccine,Phase III,2,5,5,1300,77,39,1.054,102.5,48.02,0.1,0.588,0.55,64.13,0,True
+SYN-P161,Infectious Disease,RNA / Oligonucleotide,Phase III,5,2,2,867,63,49,0.818,513.8,48.11,0.08,0.588,0.55,527.27,0,True
+SYN-P162,Neurology,Gene Therapy,Phase III,2,3,5,1041,60,32,2.067,583.1,78.17,0.12,0.528,0.55,490.39,1,True
+SYN-P163,Oncology,Vaccine,Phase II,4,4,3,170,13,26,1.375,369.8,43.9,0.12,0.36,0.22,102.62,0,True
+SYN-P164,Oncology,Gene Therapy,Phase III,2,2,4,956,90,44,0.929,3559.6,38.52,0.1,0.516,0.55,3623.27,0,True
+SYN-P165,Oncology,Cell Therapy,Phase II,4,2,4,238,17,27,1.384,1056.5,45.04,0.12,0.315,0.22,364.47,0,True
+SYN-P166,Rare Disease,Vaccine,Preclinical,3,2,5,0,1,14,0.897,724.8,11.74,0.12,0.297,0.08,89.83,1,True
+SYN-P167,Neurology,Small Molecule,Preclinical,1,5,1,0,1,18,0.715,260.8,14.93,0.08,0.378,0.08,27.87,0,True
+SYN-P168,Cardiology,Monoclonal Antibody,Phase II,4,5,4,180,14,21,1.081,200.8,21.66,0.1,0.367,0.22,62.56,1,True
+SYN-P169,Oncology,RNA / Oligonucleotide,Phase I,5,5,4,29,3,21,0.916,938.1,21.65,0.1,0.642,0.12,190.28,1,True
+SYN-P170,Infectious Disease,Vaccine,Phase I,3,2,3,63,4,13,1.247,145.7,18.15,0.1,0.546,0.12,15.41,1,True
+SYN-P171,Rare Disease,RNA / Oligonucleotide,Phase I,3,3,1,51,3,36,0.936,448.1,35.01,0.1,0.612,0.12,70.06,0,True
+SYN-P172,Immunology,RNA / Oligonucleotide,Phase II,5,5,3,133,7,34,1.265,46.9,52.42,0.1,0.385,0.22,-26.53,0,True
+SYN-P173,Immunology,Vaccine,Phase II,5,3,1,298,32,29,1.395,320.4,46.26,0.12,0.371,0.22,82.22,0,True
+SYN-P174,Oncology,Vaccine,Phase III,1,5,1,887,74,40,0.958,456.4,36.11,0.08,0.648,0.55,473.12,1,True
+SYN-P175,Infectious Disease,Small Molecule,Phase III,4,2,5,278,24,41,1.318,277.1,67.41,0.08,0.522,0.55,247.43,0,True
+SYN-P176,Infectious Disease,Cell Therapy,Phase III,4,3,5,1284,89,36,1.738,911.2,77.85,0.1,0.552,0.55,868.3,0,True
+SYN-P177,Infectious Disease,Gene Therapy,Phase I,4,1,2,45,3,20,1.354,332.8,31.13,0.12,0.546,0.12,41.11,1,True
+SYN-P178,Immunology,Gene Therapy,Preclinical,1,3,5,0,3,6,1.222,153.5,6.29,0.1,0.301,0.08,16.79,0,True
+SYN-P179,Oncology,Monoclonal Antibody,Phase II,5,2,4,256,17,28,2.131,598.4,65.19,0.08,0.322,0.22,205.19,0,True
+SYN-P180,Rare Disease,Cell Therapy,Preclinical,3,5,4,0,3,18,1.07,773.5,20.6,0.12,0.36,0.08,88.67,1,True
+SYN-P181,Oncology,RNA / Oligonucleotide,Phase II,4,1,3,138,9,34,3.245,1514.8,103.68,0.12,0.308,0.22,491.12,0,True
+SYN-P182,Oncology,Cell Therapy,Preclinical,4,2,3,0,2,11,1.339,103.0,16.71,0.1,0.326,0.08,-0.61,1,True
+SYN-P183,Infectious Disease,Cell Therapy,Phase II,4,2,1,175,13,32,0.937,159.5,36.59,0.08,0.346,0.22,37.56,1,True
+SYN-P184,Cardiology,Vaccine,Preclinical,2,5,3,0,3,18,1.301,275.2,28.39,0.08,0.364,0.08,17.48,0,True
+SYN-P185,Infectious Disease,RNA / Oligonucleotide,Phase III,1,1,4,0,2,48,1.008,112.2,42.58,0.1,0.474,0.55,80.04,0,True
+SYN-P186,Neurology,Vaccine,Phase II,4,3,3,175,10,35,1.795,89.4,65.06,0.08,0.343,0.22,-18.59,0,True
+SYN-P187,Cardiology,RNA / Oligonucleotide,Phase I,5,5,4,23,2,15,0.595,457.4,10.06,0.1,0.642,0.12,93.01,0,True
+SYN-P188,Cardiology,Small Molecule,Preclinical,4,4,5,0,2,12,3.607,441.9,41.73,0.1,0.34,0.08,26.22,0,True
+SYN-P189,Immunology,RNA / Oligonucleotide,Phase III,3,1,3,521,32,38,1.314,236.0,45.27,0.08,0.516,0.55,220.99,0,True
+SYN-P190,Oncology,Small Molecule,Phase I,1,3,1,33,2,18,1.014,461.5,20.0,0.08,0.588,0.12,92.51,0,True
+SYN-P191,Immunology,RNA / Oligonucleotide,Preclinical,1,3,2,0,2,19,0.882,431.9,17.8,0.1,0.332,0.08,48.01,0,True
+SYN-P192,Oncology,Small Molecule,Phase II,4,2,5,115,6,33,1.363,1001.2,51.97,0.1,0.304,0.22,365.7,1,True
+SYN-P193,Rare Disease,RNA / Oligonucleotide,Phase II,2,5,5,185,13,32,1.378,118.6,54.9,0.12,0.343,0.22,-1.84,1,True
+SYN-P194,Oncology,Cell Therapy,Phase III,3,2,1,1459,106,41,2.878,484.7,124.09,0.1,0.582,0.55,392.33,1,True
+SYN-P195,Cardiology,Cell Therapy,Phase III,4,3,5,940,66,33,0.534,698.5,21.01,0.12,0.552,0.55,649.98,1,True
+SYN-P196,Neurology,Gene Therapy,Phase III,2,1,4,774,60,46,0.93,1029.8,47.91,0.08,0.486,0.55,1097.85,1,True
+SYN-P197,Cardiology,Cell Therapy,Phase I,2,4,3,20,1,23,1.578,460.5,35.82,0.1,0.594,0.12,70.49,1,True
+SYN-P198,Cardiology,Cell Therapy,Preclinical,5,2,4,0,3,18,1.654,269.5,32.53,0.08,0.322,0.08,12.66,0,True
+SYN-P199,Rare Disease,RNA / Oligonucleotide,Phase I,5,3,1,45,3,18,2.04,408.0,44.84,0.1,0.636,0.12,49.67,1,True
+SYN-P200,Neurology,Vaccine,Phase I,1,2,2,40,3,19,1.236,60.3,23.04,0.08,0.54,0.12,-7.12,1,True
+SYN-P201,Oncology,Monoclonal Antibody,Phase III,2,3,5,1144,81,39,0.849,639.9,38.27,0.12,0.528,0.55,580.08,0,True
+SYN-P202,Infectious Disease,Monoclonal Antibody,Phase III,3,4,5,1174,61,31,2.805,529.1,77.16,0.08,0.57,0.55,515.45,1,True
+SYN-P203,Cardiology,RNA / Oligonucleotide,Phase III,4,5,4,570,62,43,1.487,656.5,65.81,0.1,0.63,0.55,618.73,1,True
+SYN-P204,Neurology,Vaccine,Phase III,3,1,2,967,73,45,1.23,202.8,52.75,0.1,0.534,0.55,164.15,1,True
+SYN-P205,Cardiology,RNA / Oligonucleotide,Phase II,2,3,3,302,27,44,0.975,562.2,50.85,0.08,0.329,0.22,204.61,0,True
+SYN-P206,Oncology,Gene Therapy,Phase III,1,2,3,870,45,58,1.491,219.8,75.54,0.1,0.522,0.55,165.73,0,True
+SYN-P207,Cardiology,Small Molecule,Phase II,1,2,2,276,29,23,1.358,721.3,30.59,0.08,0.315,0.22,290.75,0,True
+SYN-P208,Cardiology,Cell Therapy,Preclinical,3,4,1,0,3,21,2.455,742.7,62.84,0.12,0.374,0.08,46.4,1,True
+SYN-P209,Infectious Disease,Small Molecule,Phase III,4,5,2,631,46,40,0.615,567.8,23.4,0.08,0.666,0.55,607.53,0,True
+SYN-P210,Cardiology,Small Molecule,Preclinical,1,4,1,0,2,19,0.431,170.4,9.41,0.1,0.36,0.08,16.73,1,True
+SYN-P211,Infectious Disease,Vaccine,Phase I,2,5,3,50,5,14,1.225,490.8,15.93,0.12,0.624,0.12,87.49,0,True
+SYN-P212,Neurology,Monoclonal Antibody,Phase I,2,4,3,37,2,23,2.174,322.3,60.7,0.12,0.594,0.12,12.79,1,True
+SYN-P213,Rare Disease,RNA / Oligonucleotide,Phase II,3,3,5,319,35,24,1.209,424.3,30.56,0.08,0.315,0.22,159.45,0,True
+SYN-P214,Rare Disease,Gene Therapy,Phase II,4,3,4,158,8,31,1.304,707.4,48.27,0.12,0.333,0.22,228.89,0,True
+SYN-P215,Cardiology,Small Molecule,Phase I,1,4,4,27,2,19,1.142,186.4,20.98,0.08,0.564,0.12,25.25,0,True
+SYN-P216,Infectious Disease,Gene Therapy,Phase I,4,4,2,31,1,15,1.164,1199.1,21.47,0.08,0.636,0.12,268.95,1,True
+SYN-P217,Rare Disease,Monoclonal Antibody,Phase I,3,1,2,44,3,26,1.625,49.4,37.24,0.1,0.534,0.12,-22.52,1,True
+SYN-P218,Immunology,RNA / Oligonucleotide,Phase I,2,2,1,37,2,17,1.509,157.4,25.94,0.12,0.57,0.12,8.9,1,True
+SYN-P219,Oncology,Cell Therapy,Phase I,5,1,1,32,2,27,1.209,1135.4,29.56,0.12,0.576,0.12,210.87,0,True
+SYN-P220,Immunology,Monoclonal Antibody,Phase I,5,3,3,17,1,26,2.325,286.1,68.88,0.08,0.6,0.12,5.68,0,True
+SYN-P221,Oncology,RNA / Oligonucleotide,Preclinical,5,2,1,0,3,12,0.263,284.0,3.22,0.08,0.353,0.08,42.6,0,True
+SYN-P222,Infectious Disease,Cell Therapy,Phase II,5,5,3,283,32,38,1.237,656.4,52.84,0.08,0.385,0.22,243.67,1,True
+SYN-P223,Rare Disease,Cell Therapy,Phase I,2,3,2,57,4,20,0.324,668.7,7.77,0.1,0.582,0.12,142.66,0,True
+SYN-P224,Cardiology,Small Molecule,Phase II,5,5,1,240,29,27,1.257,5069.2,29.46,0.08,0.406,0.22,2216.06,0,True
+SYN-P225,Oncology,Small Molecule,Phase II,2,4,5,205,13,24,1.089,225.4,23.51,0.1,0.326,0.22,71.22,0,True
+SYN-P226,Cardiology,Gene Therapy,Phase III,4,4,3,526,47,42,1.434,1247.1,73.65,0.12,0.618,0.55,1132.16,0,True
+SYN-P227,Infectious Disease,Vaccine,Phase I,1,3,5,60,5,17,0.738,854.3,11.29,0.1,0.516,0.12,180.87,1,True
+SYN-P228,Rare Disease,RNA / Oligonucleotide,Preclinical,1,5,5,0,3,21,0.817,436.4,19.78,0.08,0.336,0.08,51.73,0,True
+SYN-P229,Rare Disease,Vaccine,Phase I,3,5,4,31,2,24,2.226,403.3,66.73,0.1,0.618,0.12,29.7,1,True
+SYN-P230,Oncology,RNA / Oligonucleotide,Phase II,3,5,3,185,14,26,1.659,281.1,49.09,0.08,0.371,0.22,79.22,0,True
+SYN-P231,Cardiology,RNA / Oligonucleotide,Phase II,4,1,4,93,8,27,0.326,259.3,7.8,0.1,0.297,0.22,99.51,1,True
+SYN-P232,Cardiology,Small Molecule,Phase III,4,2,3,665,55,45,0.334,78.7,15.9,0.08,0.558,0.55,73.3,1,True
+SYN-P233,Immunology,RNA / Oligonucleotide,Preclinical,1,1,2,0,3,17,3.269,106.7,54.76,0.12,0.297,0.08,-35.69,0,True
+SYN-P234,Infectious Disease,Cell Therapy,Phase III,5,5,3,372,19,43,2.075,373.7,107.38,0.08,0.66,0.55,319.85,1,True
+SYN-P235,Infectious Disease,Gene Therapy,Phase I,4,5,4,34,2,24,1.883,259.5,39.38,0.1,0.63,0.12,22.35,0,True
+SYN-P236,Cardiology,Vaccine,Phase II,4,4,5,173,18,18,0.6,128.8,9.81,0.1,0.34,0.22,43.78,1,True
+SYN-P237,Infectious Disease,Gene Therapy,Phase I,2,1,2,49,3,17,0.946,564.1,19.48,0.1,0.522,0.12,108.19,0,True
+SYN-P238,Neurology,Gene Therapy,Phase II,4,4,3,198,10,24,1.352,406.7,27.74,0.12,0.36,0.22,130.8,0,True
+SYN-P239,Neurology,Gene Therapy,Phase I,3,2,5,43,3,24,0.816,836.8,18.95,0.08,0.51,0.12,184.42,0,True
+SYN-P240,Neurology,Cell Therapy,Phase II,4,5,2,314,37,31,2.09,649.5,71.08,0.08,0.388,0.22,223.04,0,True

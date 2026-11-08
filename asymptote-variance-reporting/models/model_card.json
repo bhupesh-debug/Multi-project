@@ -1,0 +1,10 @@
+{
+  "model": "Ridge (trend + month dummies), refit on 24 months of SYNTHETIC revenue",
+  "target": "revenue_actual",
+  "holdout_mape": {
+    "Seasonal naive": 0.430889010107047,
+    "Holt linear trend": 0.110101247819291,
+    "Ridge (trend + seasonality)": 0.09012878150525912
+  },
+  "note": "Synthetic data only. Not a production forecasting model."
+}

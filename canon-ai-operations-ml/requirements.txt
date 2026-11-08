@@ -1,0 +1,11 @@
+# VerityOps — Canon AI Operations ML project
+# Tested with Python 3.12.3. Install into a virtual environment:
+#   python3 -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements.txt
+scikit-learn>=1.5
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+joblib>=1.3
+# Only needed to build the PDF report (reports/build_report.py):
+reportlab>=4.0

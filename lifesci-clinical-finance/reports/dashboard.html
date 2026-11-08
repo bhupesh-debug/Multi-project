@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Clinical Finance — Synthetic Dashboard</title>
+<style>body{font-family:Arial,sans-serif;max-width:1000px;margin:30px auto;padding:0 20px;color:#222}
+h1{color:#1f4e79} .warn{background:#fff3cd;border:1px solid #d4a017;padding:12px;border-radius:6px}
+table{border-collapse:collapse;margin:12px 0} td,th{border:1px solid #ccc;padding:6px 10px;text-align:left}
+img{max-width:100%;border:1px solid #ddd;margin:10px 0}</style></head>
+<body>
+<h1>Risk-Adjusted Valuation &amp; Budget Forecasting — Clinical Programs</h1>
+<div class="warn"><b>ALL DATA SYNTHETIC.</b> No real clinical-program, pharma, or patient data.
+Phase success rates are illustrative simulation assumptions. Not for investment, budgeting, or clinical decisions.
+<br><b>Eligibility note:</b> the candidate appears ineligible for the LifeSci NYC Internship Program on its own terms
+(it excludes applicants requiring the OPT STEM Extension); this is a portfolio piece, not a claim of eligibility.</div>
+<h2>Headline results (run 2026-11-08, seed 42, n = 240 synthetic programs)</h2>
+<table>
+<tr><th>Model</th><th>Held-out test</th><th>5-fold CV</th></tr>
+<tr><td>rNPV — Gradient Boosting (best)</td><td>R² 0.964, RMSE $61.36M</td><td>R² mean 0.50 ± 0.71 — unstable</td></tr>
+<tr><td>rNPV — Ridge (baseline)</td><td>R² 0.477, RMSE $233.31M</td><td>R² mean 0.29</td></tr>
+<tr><td>Transition — Logistic Regression (best)</td><td>ROC-AUC 0.702, recall 0.316</td><td>ROC-AUC mean 0.44 — weak</td></tr>
+<tr><td>Transition — Random Forest</td><td>ROC-AUC 0.545</td><td>ROC-AUC mean 0.50</td></tr>
+</table>
+<p>rNPV (synthetic): median $108.94M, mean $256.79M, 92.1% positive.</p>
+<h2>Monte Carlo — representative synthetic Phase II program ($36M / 30 mo, $40M budget)</h2>
+<table>
+<tr><th>P50</th><th>P80</th><th>P90</th><th>Prob. of breaching $40M budget</th></tr>
+<tr><td>$35.88M</td><td>$44.20M</td><td>$49.57M</td><td><b>33.2%</b></td></tr>
+</table>
+<p><b>Takeaway:</b> budget at P80 ($44.20M), not at the $36M point estimate — the P50→P80 gap is the contingency to defend in committee.</p>
+<h2>Charts</h2>
+<img src="figures/model_comparison.png" alt="rNPV model comparison">
+<img src="figures/rnpv_distribution.png" alt="rNPV distribution">
+<img src="figures/feature_importance.png" alt="Feature importance">
+<img src="figures/burn_variance.png" alt="Planned vs actual burn">
+<img src="figures/monte_carlo.png" alt="Monte Carlo percentiles">
+<p>Full results &amp; limitations: <a href="model_report.md">reports/model_report.md</a> •
+Run it yourself: <code>python3 src/run_all.py</code> • Author: Bhupesh Chandra Dimri</p>
+</body></html>

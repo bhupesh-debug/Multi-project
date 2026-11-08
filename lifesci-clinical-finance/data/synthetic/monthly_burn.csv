@@ -1,0 +1,1441 @@
+program_id,phase,therapeutic_area,month,planned_spend_usd_m,actual_spend_usd_m,is_synthetic
+SYN-P151,Phase III,Rare Disease,1,0.689,1.014,True
+SYN-P151,Phase III,Rare Disease,2,0.701,0.595,True
+SYN-P151,Phase III,Rare Disease,3,0.713,0.849,True
+SYN-P151,Phase III,Rare Disease,4,0.725,0.753,True
+SYN-P151,Phase III,Rare Disease,5,0.737,0.919,True
+SYN-P151,Phase III,Rare Disease,6,0.749,0.733,True
+SYN-P151,Phase III,Rare Disease,7,0.762,0.714,True
+SYN-P151,Phase III,Rare Disease,8,0.774,0.777,True
+SYN-P151,Phase III,Rare Disease,9,0.786,0.873,True
+SYN-P151,Phase III,Rare Disease,10,0.798,0.749,True
+SYN-P151,Phase III,Rare Disease,11,0.81,0.711,True
+SYN-P151,Phase III,Rare Disease,12,0.822,0.878,True
+SYN-P151,Phase III,Rare Disease,13,0.834,0.875,True
+SYN-P151,Phase III,Rare Disease,14,0.846,0.857,True
+SYN-P151,Phase III,Rare Disease,15,0.858,0.593,True
+SYN-P151,Phase III,Rare Disease,16,0.87,0.935,True
+SYN-P151,Phase III,Rare Disease,17,0.882,1.245,True
+SYN-P151,Phase III,Rare Disease,18,0.894,0.661,True
+SYN-P151,Phase III,Rare Disease,19,0.907,0.911,True
+SYN-P151,Phase III,Rare Disease,20,0.919,0.995,True
+SYN-P151,Phase III,Rare Disease,21,0.931,0.804,True
+SYN-P151,Phase III,Rare Disease,22,0.943,0.802,True
+SYN-P151,Phase III,Rare Disease,23,0.955,1.229,True
+SYN-P151,Phase III,Rare Disease,24,0.967,1.053,True
+SYN-P083,Phase I,Neurology,1,1.366,1.232,True
+SYN-P083,Phase I,Neurology,2,1.39,1.56,True
+SYN-P083,Phase I,Neurology,3,1.414,2.609,True
+SYN-P083,Phase I,Neurology,4,1.438,1.711,True
+SYN-P083,Phase I,Neurology,5,1.462,1.524,True
+SYN-P083,Phase I,Neurology,6,1.486,1.866,True
+SYN-P083,Phase I,Neurology,7,1.51,2.134,True
+SYN-P083,Phase I,Neurology,8,1.534,1.793,True
+SYN-P083,Phase I,Neurology,9,1.558,1.565,True
+SYN-P083,Phase I,Neurology,10,1.582,2.306,True
+SYN-P083,Phase I,Neurology,11,1.605,1.604,True
+SYN-P083,Phase I,Neurology,12,1.629,1.655,True
+SYN-P083,Phase I,Neurology,13,1.653,1.557,True
+SYN-P083,Phase I,Neurology,14,1.677,1.962,True
+SYN-P083,Phase I,Neurology,15,1.701,1.768,True
+SYN-P083,Phase I,Neurology,16,1.725,2.641,True
+SYN-P083,Phase I,Neurology,17,1.749,1.866,True
+SYN-P083,Phase I,Neurology,18,1.773,1.766,True
+SYN-P083,Phase I,Neurology,19,1.797,2.511,True
+SYN-P083,Phase I,Neurology,20,1.821,1.108,True
+SYN-P083,Phase I,Neurology,21,1.845,2.439,True
+SYN-P083,Phase I,Neurology,22,1.869,1.346,True
+SYN-P083,Phase I,Neurology,23,1.893,2.047,True
+SYN-P083,Phase I,Neurology,24,1.917,1.932,True
+SYN-P143,Preclinical,Neurology,1,0.782,0.712,True
+SYN-P143,Preclinical,Neurology,2,0.795,0.758,True
+SYN-P143,Preclinical,Neurology,3,0.809,0.978,True
+SYN-P143,Preclinical,Neurology,4,0.823,0.757,True
+SYN-P143,Preclinical,Neurology,5,0.836,1.053,True
+SYN-P143,Preclinical,Neurology,6,0.85,0.826,True
+SYN-P143,Preclinical,Neurology,7,0.864,0.893,True
+SYN-P143,Preclinical,Neurology,8,0.878,0.615,True
+SYN-P143,Preclinical,Neurology,9,0.891,0.878,True
+SYN-P143,Preclinical,Neurology,10,0.905,1.069,True
+SYN-P143,Preclinical,Neurology,11,0.919,0.691,True
+SYN-P143,Preclinical,Neurology,12,0.932,0.923,True
+SYN-P143,Preclinical,Neurology,13,0.946,0.761,True
+SYN-P143,Preclinical,Neurology,14,0.96,0.944,True
+SYN-P143,Preclinical,Neurology,15,0.974,1.146,True
+SYN-P143,Preclinical,Neurology,16,0.987,1.046,True
+SYN-P143,Preclinical,Neurology,17,1.001,1.071,True
+SYN-P143,Preclinical,Neurology,18,1.015,1.714,True
+SYN-P143,Preclinical,Neurology,19,1.028,0.796,True
+SYN-P143,Preclinical,Neurology,20,1.042,1.187,True
+SYN-P143,Preclinical,Neurology,21,1.056,1.168,True
+SYN-P143,Preclinical,Neurology,22,1.07,0.917,True
+SYN-P143,Preclinical,Neurology,23,1.083,1.271,True
+SYN-P143,Preclinical,Neurology,24,1.097,0.937,True
+SYN-P175,Phase III,Infectious Disease,1,0.939,0.743,True
+SYN-P175,Phase III,Infectious Disease,2,0.956,0.86,True
+SYN-P175,Phase III,Infectious Disease,3,0.972,0.944,True
+SYN-P175,Phase III,Infectious Disease,4,0.989,1.077,True
+SYN-P175,Phase III,Infectious Disease,5,1.005,1.279,True
+SYN-P175,Phase III,Infectious Disease,6,1.021,1.392,True
+SYN-P175,Phase III,Infectious Disease,7,1.038,1.762,True
+SYN-P175,Phase III,Infectious Disease,8,1.054,0.841,True
+SYN-P175,Phase III,Infectious Disease,9,1.071,1.25,True
+SYN-P175,Phase III,Infectious Disease,10,1.087,1.242,True
+SYN-P175,Phase III,Infectious Disease,11,1.104,0.889,True
+SYN-P175,Phase III,Infectious Disease,12,1.12,0.729,True
+SYN-P175,Phase III,Infectious Disease,13,1.137,1.266,True
+SYN-P175,Phase III,Infectious Disease,14,1.153,1.747,True
+SYN-P175,Phase III,Infectious Disease,15,1.17,0.941,True
+SYN-P175,Phase III,Infectious Disease,16,1.186,1.297,True
+SYN-P175,Phase III,Infectious Disease,17,1.203,1.323,True
+SYN-P175,Phase III,Infectious Disease,18,1.219,1.203,True
+SYN-P175,Phase III,Infectious Disease,19,1.236,1.335,True
+SYN-P175,Phase III,Infectious Disease,20,1.252,1.325,True
+SYN-P175,Phase III,Infectious Disease,21,1.269,1.455,True
+SYN-P175,Phase III,Infectious Disease,22,1.285,1.118,True
+SYN-P175,Phase III,Infectious Disease,23,1.302,1.721,True
+SYN-P175,Phase III,Infectious Disease,24,1.318,1.253,True
+SYN-P201,Phase III,Oncology,1,0.605,0.683,True
+SYN-P201,Phase III,Oncology,2,0.616,0.623,True
+SYN-P201,Phase III,Oncology,3,0.626,1.004,True
+SYN-P201,Phase III,Oncology,4,0.637,0.435,True
+SYN-P201,Phase III,Oncology,5,0.647,0.732,True
+SYN-P201,Phase III,Oncology,6,0.658,0.767,True
+SYN-P201,Phase III,Oncology,7,0.669,0.653,True
+SYN-P201,Phase III,Oncology,8,0.679,0.86,True
+SYN-P201,Phase III,Oncology,9,0.69,0.692,True
+SYN-P201,Phase III,Oncology,10,0.7,0.553,True
+SYN-P201,Phase III,Oncology,11,0.711,0.583,True
+SYN-P201,Phase III,Oncology,12,0.722,0.633,True
+SYN-P201,Phase III,Oncology,13,0.732,0.737,True
+SYN-P201,Phase III,Oncology,14,0.743,0.497,True
+SYN-P201,Phase III,Oncology,15,0.753,0.88,True
+SYN-P201,Phase III,Oncology,16,0.764,1.137,True
+SYN-P201,Phase III,Oncology,17,0.775,0.805,True
+SYN-P201,Phase III,Oncology,18,0.785,0.876,True
+SYN-P201,Phase III,Oncology,19,0.796,1.496,True
+SYN-P201,Phase III,Oncology,20,0.807,0.716,True
+SYN-P201,Phase III,Oncology,21,0.817,0.864,True
+SYN-P201,Phase III,Oncology,22,0.828,0.964,True
+SYN-P201,Phase III,Oncology,23,0.838,0.969,True
+SYN-P201,Phase III,Oncology,24,0.849,0.808,True
+SYN-P018,Phase III,Infectious Disease,1,0.945,0.886,True
+SYN-P018,Phase III,Infectious Disease,2,0.962,0.878,True
+SYN-P018,Phase III,Infectious Disease,3,0.979,1.004,True
+SYN-P018,Phase III,Infectious Disease,4,0.995,0.977,True
+SYN-P018,Phase III,Infectious Disease,5,1.012,1.116,True
+SYN-P018,Phase III,Infectious Disease,6,1.028,1.253,True
+SYN-P018,Phase III,Infectious Disease,7,1.045,1.344,True
+SYN-P018,Phase III,Infectious Disease,8,1.062,1.167,True
+SYN-P018,Phase III,Infectious Disease,9,1.078,1.282,True
+SYN-P018,Phase III,Infectious Disease,10,1.095,1.109,True
+SYN-P018,Phase III,Infectious Disease,11,1.111,1.04,True
+SYN-P018,Phase III,Infectious Disease,12,1.128,1.419,True
+SYN-P018,Phase III,Infectious Disease,13,1.145,0.968,True
+SYN-P018,Phase III,Infectious Disease,14,1.161,1.184,True
+SYN-P018,Phase III,Infectious Disease,15,1.178,1.26,True
+SYN-P018,Phase III,Infectious Disease,16,1.194,1.309,True
+SYN-P018,Phase III,Infectious Disease,17,1.211,1.259,True
+SYN-P018,Phase III,Infectious Disease,18,1.227,1.088,True
+SYN-P018,Phase III,Infectious Disease,19,1.244,0.938,True
+SYN-P018,Phase III,Infectious Disease,20,1.261,1.161,True
+SYN-P018,Phase III,Infectious Disease,21,1.277,1.441,True
+SYN-P018,Phase III,Infectious Disease,22,1.294,1.652,True
+SYN-P018,Phase III,Infectious Disease,23,1.31,1.416,True
+SYN-P018,Phase III,Infectious Disease,24,1.327,1.356,True
+SYN-P138,Preclinical,Immunology,1,1.345,1.172,True
+SYN-P138,Preclinical,Immunology,2,1.369,1.53,True
+SYN-P138,Preclinical,Immunology,3,1.392,1.403,True
+SYN-P138,Preclinical,Immunology,4,1.416,1.443,True
+SYN-P138,Preclinical,Immunology,5,1.44,1.764,True
+SYN-P138,Preclinical,Immunology,6,1.463,1.378,True
+SYN-P138,Preclinical,Immunology,7,1.487,1.294,True
+SYN-P138,Preclinical,Immunology,8,1.51,1.492,True
+SYN-P138,Preclinical,Immunology,9,1.534,1.188,True
+SYN-P138,Preclinical,Immunology,10,1.558,1.469,True
+SYN-P138,Preclinical,Immunology,11,1.581,1.746,True
+SYN-P138,Preclinical,Immunology,12,1.605,2.072,True
+SYN-P138,Preclinical,Immunology,13,1.628,1.293,True
+SYN-P138,Preclinical,Immunology,14,1.652,1.5,True
+SYN-P138,Preclinical,Immunology,15,1.676,1.549,True
+SYN-P138,Preclinical,Immunology,16,1.699,1.517,True
+SYN-P138,Preclinical,Immunology,17,1.723,2.119,True
+SYN-P138,Preclinical,Immunology,18,1.746,1.59,True
+SYN-P138,Preclinical,Immunology,19,1.77,1.52,True
+SYN-P138,Preclinical,Immunology,20,1.794,1.884,True
+SYN-P138,Preclinical,Immunology,21,1.817,1.938,True
+SYN-P138,Preclinical,Immunology,22,1.841,2.226,True
+SYN-P138,Preclinical,Immunology,23,1.864,2.063,True
+SYN-P138,Preclinical,Immunology,24,1.888,1.9,True
+SYN-P142,Phase II,Cardiology,1,0.874,0.874,True
+SYN-P142,Phase II,Cardiology,2,0.89,0.979,True
+SYN-P142,Phase II,Cardiology,3,0.905,0.869,True
+SYN-P142,Phase II,Cardiology,4,0.92,1.103,True
+SYN-P142,Phase II,Cardiology,5,0.936,1.063,True
+SYN-P142,Phase II,Cardiology,6,0.951,0.879,True
+SYN-P142,Phase II,Cardiology,7,0.966,0.874,True
+SYN-P142,Phase II,Cardiology,8,0.982,1.125,True
+SYN-P142,Phase II,Cardiology,9,0.997,1.009,True
+SYN-P142,Phase II,Cardiology,10,1.012,0.784,True
+SYN-P142,Phase II,Cardiology,11,1.028,1.114,True
+SYN-P142,Phase II,Cardiology,12,1.043,1.171,True
+SYN-P142,Phase II,Cardiology,13,1.058,1.114,True
+SYN-P142,Phase II,Cardiology,14,1.074,1.348,True
+SYN-P142,Phase II,Cardiology,15,1.089,0.968,True
+SYN-P142,Phase II,Cardiology,16,1.104,1.046,True
+SYN-P142,Phase II,Cardiology,17,1.12,1.366,True
+SYN-P142,Phase II,Cardiology,18,1.135,0.991,True
+SYN-P142,Phase II,Cardiology,19,1.15,1.23,True
+SYN-P142,Phase II,Cardiology,20,1.166,1.032,True
+SYN-P142,Phase II,Cardiology,21,1.181,1.386,True
+SYN-P142,Phase II,Cardiology,22,1.196,1.016,True
+SYN-P142,Phase II,Cardiology,23,1.212,1.303,True
+SYN-P142,Phase II,Cardiology,24,1.227,1.4,True
+SYN-P030,Preclinical,Neurology,1,0.368,0.382,True
+SYN-P030,Preclinical,Neurology,2,0.374,0.28,True
+SYN-P030,Preclinical,Neurology,3,0.381,0.726,True
+SYN-P030,Preclinical,Neurology,4,0.387,0.483,True
+SYN-P030,Preclinical,Neurology,5,0.393,0.367,True
+SYN-P030,Preclinical,Neurology,6,0.4,0.283,True
+SYN-P030,Preclinical,Neurology,7,0.406,0.382,True
+SYN-P030,Preclinical,Neurology,8,0.413,0.589,True
+SYN-P030,Preclinical,Neurology,9,0.419,0.478,True
+SYN-P030,Preclinical,Neurology,10,0.426,0.34,True
+SYN-P030,Preclinical,Neurology,11,0.432,0.732,True
+SYN-P030,Preclinical,Neurology,12,0.439,0.454,True
+SYN-P030,Preclinical,Neurology,13,0.445,0.516,True
+SYN-P030,Preclinical,Neurology,14,0.452,0.418,True
+SYN-P030,Preclinical,Neurology,15,0.458,0.671,True
+SYN-P030,Preclinical,Neurology,16,0.464,0.306,True
+SYN-P030,Preclinical,Neurology,17,0.471,0.392,True
+SYN-P030,Preclinical,Neurology,18,0.477,0.422,True
+SYN-P030,Preclinical,Neurology,19,0.484,0.472,True
+SYN-P030,Preclinical,Neurology,20,0.49,0.403,True
+SYN-P030,Preclinical,Neurology,21,0.497,0.489,True
+SYN-P030,Preclinical,Neurology,22,0.503,0.587,True
+SYN-P030,Preclinical,Neurology,23,0.51,0.519,True
+SYN-P030,Preclinical,Neurology,24,0.516,0.759,True
+SYN-P079,Phase I,Oncology,1,1.053,0.825,True
+SYN-P079,Phase I,Oncology,2,1.072,1.11,True
+SYN-P079,Phase I,Oncology,3,1.09,1.001,True
+SYN-P079,Phase I,Oncology,4,1.109,1.265,True
+SYN-P079,Phase I,Oncology,5,1.127,0.93,True
+SYN-P079,Phase I,Oncology,6,1.145,1.173,True
+SYN-P079,Phase I,Oncology,7,1.164,2.507,True
+SYN-P079,Phase I,Oncology,8,1.182,1.427,True
+SYN-P079,Phase I,Oncology,9,1.201,1.214,True
+SYN-P079,Phase I,Oncology,10,1.219,1.329,True
+SYN-P079,Phase I,Oncology,11,1.238,1.015,True
+SYN-P079,Phase I,Oncology,12,1.256,1.838,True
+SYN-P079,Phase I,Oncology,13,1.275,1.704,True
+SYN-P079,Phase I,Oncology,14,1.293,1.556,True
+SYN-P079,Phase I,Oncology,15,1.312,1.389,True
+SYN-P079,Phase I,Oncology,16,1.33,1.295,True
+SYN-P079,Phase I,Oncology,17,1.349,1.258,True
+SYN-P079,Phase I,Oncology,18,1.367,1.146,True
+SYN-P079,Phase I,Oncology,19,1.386,1.847,True
+SYN-P079,Phase I,Oncology,20,1.404,1.399,True
+SYN-P079,Phase I,Oncology,21,1.423,1.499,True
+SYN-P079,Phase I,Oncology,22,1.441,1.61,True
+SYN-P079,Phase I,Oncology,23,1.46,1.29,True
+SYN-P079,Phase I,Oncology,24,1.478,1.533,True
+SYN-P187,Phase I,Cardiology,1,0.424,0.431,True
+SYN-P187,Phase I,Cardiology,2,0.431,0.466,True
+SYN-P187,Phase I,Cardiology,3,0.439,0.482,True
+SYN-P187,Phase I,Cardiology,4,0.446,0.377,True
+SYN-P187,Phase I,Cardiology,5,0.454,0.418,True
+SYN-P187,Phase I,Cardiology,6,0.461,0.413,True
+SYN-P187,Phase I,Cardiology,7,0.469,0.518,True
+SYN-P187,Phase I,Cardiology,8,0.476,0.659,True
+SYN-P187,Phase I,Cardiology,9,0.483,0.526,True
+SYN-P187,Phase I,Cardiology,10,0.491,0.367,True
+SYN-P187,Phase I,Cardiology,11,0.498,0.542,True
+SYN-P187,Phase I,Cardiology,12,0.506,0.501,True
+SYN-P187,Phase I,Cardiology,13,0.513,0.541,True
+SYN-P187,Phase I,Cardiology,14,0.521,0.539,True
+SYN-P187,Phase I,Cardiology,15,0.528,0.394,True
+SYN-P187,Phase I,Cardiology,16,0.535,0.426,True
+SYN-P187,Phase I,Cardiology,17,0.543,0.5,True
+SYN-P187,Phase I,Cardiology,18,0.55,0.561,True
+SYN-P187,Phase I,Cardiology,19,0.558,0.579,True
+SYN-P187,Phase I,Cardiology,20,0.565,0.489,True
+SYN-P187,Phase I,Cardiology,21,0.573,0.577,True
+SYN-P187,Phase I,Cardiology,22,0.58,0.517,True
+SYN-P187,Phase I,Cardiology,23,0.588,0.621,True
+SYN-P187,Phase I,Cardiology,24,0.595,0.778,True
+SYN-P056,Preclinical,Cardiology,1,0.948,1.019,True
+SYN-P056,Preclinical,Cardiology,2,0.965,1.282,True
+SYN-P056,Preclinical,Cardiology,3,0.982,0.796,True
+SYN-P056,Preclinical,Cardiology,4,0.998,0.695,True
+SYN-P056,Preclinical,Cardiology,5,1.015,1.007,True
+SYN-P056,Preclinical,Cardiology,6,1.032,1.232,True
+SYN-P056,Preclinical,Cardiology,7,1.048,1.086,True
+SYN-P056,Preclinical,Cardiology,8,1.065,1.92,True
+SYN-P056,Preclinical,Cardiology,9,1.081,0.774,True
+SYN-P056,Preclinical,Cardiology,10,1.098,1.195,True
+SYN-P056,Preclinical,Cardiology,11,1.115,0.989,True
+SYN-P056,Preclinical,Cardiology,12,1.131,1.435,True
+SYN-P056,Preclinical,Cardiology,13,1.148,1.03,True
+SYN-P056,Preclinical,Cardiology,14,1.165,1.345,True
+SYN-P056,Preclinical,Cardiology,15,1.181,1.142,True
+SYN-P056,Preclinical,Cardiology,16,1.198,1.167,True
+SYN-P056,Preclinical,Cardiology,17,1.215,1.113,True
+SYN-P056,Preclinical,Cardiology,18,1.231,1.339,True
+SYN-P056,Preclinical,Cardiology,19,1.248,1.131,True
+SYN-P056,Preclinical,Cardiology,20,1.264,1.318,True
+SYN-P056,Preclinical,Cardiology,21,1.281,1.183,True
+SYN-P056,Preclinical,Cardiology,22,1.298,1.104,True
+SYN-P056,Preclinical,Cardiology,23,1.314,0.824,True
+SYN-P056,Preclinical,Cardiology,24,1.331,1.329,True
+SYN-P038,Preclinical,Oncology,1,0.354,0.318,True
+SYN-P038,Preclinical,Oncology,2,0.36,0.314,True
+SYN-P038,Preclinical,Oncology,3,0.367,0.347,True
+SYN-P038,Preclinical,Oncology,4,0.373,0.346,True
+SYN-P038,Preclinical,Oncology,5,0.379,0.405,True
+SYN-P038,Preclinical,Oncology,6,0.385,0.394,True
+SYN-P038,Preclinical,Oncology,7,0.391,0.46,True
+SYN-P038,Preclinical,Oncology,8,0.398,0.56,True
+SYN-P038,Preclinical,Oncology,9,0.404,0.36,True
+SYN-P038,Preclinical,Oncology,10,0.41,0.389,True
+SYN-P038,Preclinical,Oncology,11,0.416,0.716,True
+SYN-P038,Preclinical,Oncology,12,0.422,0.449,True
+SYN-P038,Preclinical,Oncology,13,0.429,0.624,True
+SYN-P038,Preclinical,Oncology,14,0.435,0.372,True
+SYN-P038,Preclinical,Oncology,15,0.441,0.479,True
+SYN-P038,Preclinical,Oncology,16,0.447,0.516,True
+SYN-P038,Preclinical,Oncology,17,0.454,0.438,True
+SYN-P038,Preclinical,Oncology,18,0.46,0.467,True
+SYN-P038,Preclinical,Oncology,19,0.466,0.322,True
+SYN-P038,Preclinical,Oncology,20,0.472,0.398,True
+SYN-P038,Preclinical,Oncology,21,0.478,0.407,True
+SYN-P038,Preclinical,Oncology,22,0.485,0.444,True
+SYN-P038,Preclinical,Oncology,23,0.491,0.45,True
+SYN-P038,Preclinical,Oncology,24,0.497,0.593,True
+SYN-P011,Phase I,Rare Disease,1,0.975,1.067,True
+SYN-P011,Phase I,Rare Disease,2,0.992,0.894,True
+SYN-P011,Phase I,Rare Disease,3,1.009,0.909,True
+SYN-P011,Phase I,Rare Disease,4,1.026,1.29,True
+SYN-P011,Phase I,Rare Disease,5,1.043,1.617,True
+SYN-P011,Phase I,Rare Disease,6,1.06,0.714,True
+SYN-P011,Phase I,Rare Disease,7,1.077,0.92,True
+SYN-P011,Phase I,Rare Disease,8,1.094,1.126,True
+SYN-P011,Phase I,Rare Disease,9,1.112,1.127,True
+SYN-P011,Phase I,Rare Disease,10,1.129,1.175,True
+SYN-P011,Phase I,Rare Disease,11,1.146,0.889,True
+SYN-P011,Phase I,Rare Disease,12,1.163,1.017,True
+SYN-P011,Phase I,Rare Disease,13,1.18,1.173,True
+SYN-P011,Phase I,Rare Disease,14,1.197,1.318,True
+SYN-P011,Phase I,Rare Disease,15,1.214,1.253,True
+SYN-P011,Phase I,Rare Disease,16,1.231,1.254,True
+SYN-P011,Phase I,Rare Disease,17,1.248,1.799,True
+SYN-P011,Phase I,Rare Disease,18,1.265,1.657,True
+SYN-P011,Phase I,Rare Disease,19,1.283,1.306,True
+SYN-P011,Phase I,Rare Disease,20,1.3,1.729,True
+SYN-P011,Phase I,Rare Disease,21,1.317,1.069,True
+SYN-P011,Phase I,Rare Disease,22,1.334,1.422,True
+SYN-P011,Phase I,Rare Disease,23,1.351,1.534,True
+SYN-P011,Phase I,Rare Disease,24,1.368,1.963,True
+SYN-P120,Phase III,Cardiology,1,0.868,0.74,True
+SYN-P120,Phase III,Cardiology,2,0.883,0.709,True
+SYN-P120,Phase III,Cardiology,3,0.898,0.795,True
+SYN-P120,Phase III,Cardiology,4,0.913,0.97,True
+SYN-P120,Phase III,Cardiology,5,0.929,0.984,True
+SYN-P120,Phase III,Cardiology,6,0.944,1.058,True
+SYN-P120,Phase III,Cardiology,7,0.959,1.118,True
+SYN-P120,Phase III,Cardiology,8,0.974,0.947,True
+SYN-P120,Phase III,Cardiology,9,0.99,1.16,True
+SYN-P120,Phase III,Cardiology,10,1.005,0.924,True
+SYN-P120,Phase III,Cardiology,11,1.02,0.938,True
+SYN-P120,Phase III,Cardiology,12,1.035,1.201,True
+SYN-P120,Phase III,Cardiology,13,1.051,0.898,True
+SYN-P120,Phase III,Cardiology,14,1.066,0.782,True
+SYN-P120,Phase III,Cardiology,15,1.081,1.102,True
+SYN-P120,Phase III,Cardiology,16,1.096,1.475,True
+SYN-P120,Phase III,Cardiology,17,1.111,1.137,True
+SYN-P120,Phase III,Cardiology,18,1.127,1.064,True
+SYN-P120,Phase III,Cardiology,19,1.142,1.05,True
+SYN-P120,Phase III,Cardiology,20,1.157,1.153,True
+SYN-P120,Phase III,Cardiology,21,1.172,1.067,True
+SYN-P120,Phase III,Cardiology,22,1.188,0.824,True
+SYN-P120,Phase III,Cardiology,23,1.203,1.504,True
+SYN-P120,Phase III,Cardiology,24,1.218,1.313,True
+SYN-P078,Phase III,Cardiology,1,1.133,0.951,True
+SYN-P078,Phase III,Cardiology,2,1.153,1.14,True
+SYN-P078,Phase III,Cardiology,3,1.173,1.175,True
+SYN-P078,Phase III,Cardiology,4,1.193,1.076,True
+SYN-P078,Phase III,Cardiology,5,1.212,1.017,True
+SYN-P078,Phase III,Cardiology,6,1.232,1.289,True
+SYN-P078,Phase III,Cardiology,7,1.252,1.545,True
+SYN-P078,Phase III,Cardiology,8,1.272,1.027,True
+SYN-P078,Phase III,Cardiology,9,1.292,1.136,True
+SYN-P078,Phase III,Cardiology,10,1.312,1.006,True
+SYN-P078,Phase III,Cardiology,11,1.332,1.179,True
+SYN-P078,Phase III,Cardiology,12,1.351,1.468,True
+SYN-P078,Phase III,Cardiology,13,1.371,1.27,True
+SYN-P078,Phase III,Cardiology,14,1.391,1.424,True
+SYN-P078,Phase III,Cardiology,15,1.411,2.037,True
+SYN-P078,Phase III,Cardiology,16,1.431,2.308,True
+SYN-P078,Phase III,Cardiology,17,1.451,1.51,True
+SYN-P078,Phase III,Cardiology,18,1.471,1.616,True
+SYN-P078,Phase III,Cardiology,19,1.491,1.283,True
+SYN-P078,Phase III,Cardiology,20,1.51,1.178,True
+SYN-P078,Phase III,Cardiology,21,1.53,1.889,True
+SYN-P078,Phase III,Cardiology,22,1.55,1.664,True
+SYN-P078,Phase III,Cardiology,23,1.57,1.529,True
+SYN-P078,Phase III,Cardiology,24,1.59,1.523,True
+SYN-P016,Preclinical,Infectious Disease,1,1.356,1.311,True
+SYN-P016,Preclinical,Infectious Disease,2,1.38,1.464,True
+SYN-P016,Preclinical,Infectious Disease,3,1.403,1.687,True
+SYN-P016,Preclinical,Infectious Disease,4,1.427,1.489,True
+SYN-P016,Preclinical,Infectious Disease,5,1.451,1.348,True
+SYN-P016,Preclinical,Infectious Disease,6,1.475,1.368,True
+SYN-P016,Preclinical,Infectious Disease,7,1.499,1.102,True
+SYN-P016,Preclinical,Infectious Disease,8,1.522,1.979,True
+SYN-P016,Preclinical,Infectious Disease,9,1.546,1.979,True
+SYN-P016,Preclinical,Infectious Disease,10,1.57,1.511,True
+SYN-P016,Preclinical,Infectious Disease,11,1.594,1.594,True
+SYN-P016,Preclinical,Infectious Disease,12,1.618,1.555,True
+SYN-P016,Preclinical,Infectious Disease,13,1.641,1.384,True
+SYN-P016,Preclinical,Infectious Disease,14,1.665,1.67,True
+SYN-P016,Preclinical,Infectious Disease,15,1.689,1.584,True
+SYN-P016,Preclinical,Infectious Disease,16,1.713,3.126,True
+SYN-P016,Preclinical,Infectious Disease,17,1.736,1.158,True
+SYN-P016,Preclinical,Infectious Disease,18,1.76,1.544,True
+SYN-P016,Preclinical,Infectious Disease,19,1.784,1.581,True
+SYN-P016,Preclinical,Infectious Disease,20,1.808,1.938,True
+SYN-P016,Preclinical,Infectious Disease,21,1.832,2.204,True
+SYN-P016,Preclinical,Infectious Disease,22,1.855,1.655,True
+SYN-P016,Preclinical,Infectious Disease,23,1.879,2.032,True
+SYN-P016,Preclinical,Infectious Disease,24,1.903,2.342,True
+SYN-P178,Preclinical,Immunology,1,0.871,1.51,True
+SYN-P178,Preclinical,Immunology,2,0.886,0.946,True
+SYN-P178,Preclinical,Immunology,3,0.901,0.707,True
+SYN-P178,Preclinical,Immunology,4,0.916,0.956,True
+SYN-P178,Preclinical,Immunology,5,0.932,0.917,True
+SYN-P178,Preclinical,Immunology,6,0.947,1.124,True
+SYN-P178,Preclinical,Immunology,7,0.962,0.881,True
+SYN-P178,Preclinical,Immunology,8,0.978,1.088,True
+SYN-P178,Preclinical,Immunology,9,0.993,0.809,True
+SYN-P178,Preclinical,Immunology,10,1.008,0.977,True
+SYN-P178,Preclinical,Immunology,11,1.023,1.175,True
+SYN-P178,Preclinical,Immunology,12,1.039,0.855,True
+SYN-P178,Preclinical,Immunology,13,1.054,1.182,True
+SYN-P178,Preclinical,Immunology,14,1.069,1.793,True
+SYN-P178,Preclinical,Immunology,15,1.085,0.726,True
+SYN-P178,Preclinical,Immunology,16,1.1,0.985,True
+SYN-P178,Preclinical,Immunology,17,1.115,1.068,True
+SYN-P178,Preclinical,Immunology,18,1.13,1.102,True
+SYN-P178,Preclinical,Immunology,19,1.146,1.098,True
+SYN-P178,Preclinical,Immunology,20,1.161,1.119,True
+SYN-P178,Preclinical,Immunology,21,1.176,1.55,True
+SYN-P178,Preclinical,Immunology,22,1.191,0.917,True
+SYN-P178,Preclinical,Immunology,23,1.207,1.954,True
+SYN-P178,Preclinical,Immunology,24,1.222,1.652,True
+SYN-P003,Phase III,Oncology,1,1.084,0.77,True
+SYN-P003,Phase III,Oncology,2,1.103,1.301,True
+SYN-P003,Phase III,Oncology,3,1.122,1.196,True
+SYN-P003,Phase III,Oncology,4,1.141,1.026,True
+SYN-P003,Phase III,Oncology,5,1.16,1.322,True
+SYN-P003,Phase III,Oncology,6,1.179,1.393,True
+SYN-P003,Phase III,Oncology,7,1.198,1.158,True
+SYN-P003,Phase III,Oncology,8,1.217,1.349,True
+SYN-P003,Phase III,Oncology,9,1.236,2.693,True
+SYN-P003,Phase III,Oncology,10,1.255,1.386,True
+SYN-P003,Phase III,Oncology,11,1.274,1.133,True
+SYN-P003,Phase III,Oncology,12,1.293,1.211,True
+SYN-P003,Phase III,Oncology,13,1.312,1.364,True
+SYN-P003,Phase III,Oncology,14,1.331,1.228,True
+SYN-P003,Phase III,Oncology,15,1.35,1.238,True
+SYN-P003,Phase III,Oncology,16,1.369,1.407,True
+SYN-P003,Phase III,Oncology,17,1.388,1.825,True
+SYN-P003,Phase III,Oncology,18,1.407,1.31,True
+SYN-P003,Phase III,Oncology,19,1.426,1.545,True
+SYN-P003,Phase III,Oncology,20,1.445,1.383,True
+SYN-P003,Phase III,Oncology,21,1.464,1.669,True
+SYN-P003,Phase III,Oncology,22,1.483,1.514,True
+SYN-P003,Phase III,Oncology,23,1.502,1.487,True
+SYN-P003,Phase III,Oncology,24,1.521,1.477,True
+SYN-P131,Phase I,Infectious Disease,1,1.038,1.081,True
+SYN-P131,Phase I,Infectious Disease,2,1.056,1.594,True
+SYN-P131,Phase I,Infectious Disease,3,1.075,1.104,True
+SYN-P131,Phase I,Infectious Disease,4,1.093,1.037,True
+SYN-P131,Phase I,Infectious Disease,5,1.111,1.826,True
+SYN-P131,Phase I,Infectious Disease,6,1.129,1.279,True
+SYN-P131,Phase I,Infectious Disease,7,1.147,0.888,True
+SYN-P131,Phase I,Infectious Disease,8,1.166,0.935,True
+SYN-P131,Phase I,Infectious Disease,9,1.184,1.281,True
+SYN-P131,Phase I,Infectious Disease,10,1.202,1.155,True
+SYN-P131,Phase I,Infectious Disease,11,1.22,1.138,True
+SYN-P131,Phase I,Infectious Disease,12,1.238,1.787,True
+SYN-P131,Phase I,Infectious Disease,13,1.257,1.378,True
+SYN-P131,Phase I,Infectious Disease,14,1.275,1.209,True
+SYN-P131,Phase I,Infectious Disease,15,1.293,1.155,True
+SYN-P131,Phase I,Infectious Disease,16,1.311,1.154,True
+SYN-P131,Phase I,Infectious Disease,17,1.33,1.106,True
+SYN-P131,Phase I,Infectious Disease,18,1.348,1.376,True
+SYN-P131,Phase I,Infectious Disease,19,1.366,1.665,True
+SYN-P131,Phase I,Infectious Disease,20,1.384,1.961,True
+SYN-P131,Phase I,Infectious Disease,21,1.402,1.238,True
+SYN-P131,Phase I,Infectious Disease,22,1.421,1.073,True
+SYN-P131,Phase I,Infectious Disease,23,1.439,1.457,True
+SYN-P131,Phase I,Infectious Disease,24,1.457,1.445,True
+SYN-P001,Phase I,Oncology,1,0.718,0.873,True
+SYN-P001,Phase I,Oncology,2,0.731,0.576,True
+SYN-P001,Phase I,Oncology,3,0.743,0.601,True
+SYN-P001,Phase I,Oncology,4,0.756,0.742,True
+SYN-P001,Phase I,Oncology,5,0.769,0.745,True
+SYN-P001,Phase I,Oncology,6,0.781,0.685,True
+SYN-P001,Phase I,Oncology,7,0.794,0.848,True
+SYN-P001,Phase I,Oncology,8,0.806,0.719,True
+SYN-P001,Phase I,Oncology,9,0.819,0.883,True
+SYN-P001,Phase I,Oncology,10,0.832,0.873,True
+SYN-P001,Phase I,Oncology,11,0.844,0.818,True
+SYN-P001,Phase I,Oncology,12,0.857,0.945,True
+SYN-P001,Phase I,Oncology,13,0.869,0.82,True
+SYN-P001,Phase I,Oncology,14,0.882,0.905,True
+SYN-P001,Phase I,Oncology,15,0.895,1.04,True
+SYN-P001,Phase I,Oncology,16,0.907,1.012,True
+SYN-P001,Phase I,Oncology,17,0.92,1.419,True
+SYN-P001,Phase I,Oncology,18,0.932,0.873,True
+SYN-P001,Phase I,Oncology,19,0.945,1.131,True
+SYN-P001,Phase I,Oncology,20,0.958,0.91,True
+SYN-P001,Phase I,Oncology,21,0.97,0.957,True
+SYN-P001,Phase I,Oncology,22,0.983,0.921,True
+SYN-P001,Phase I,Oncology,23,0.995,0.964,True
+SYN-P001,Phase I,Oncology,24,1.008,1.051,True
+SYN-P055,Phase II,Immunology,1,0.524,0.48,True
+SYN-P055,Phase II,Immunology,2,0.534,0.588,True
+SYN-P055,Phase II,Immunology,3,0.543,0.569,True
+SYN-P055,Phase II,Immunology,4,0.552,0.45,True
+SYN-P055,Phase II,Immunology,5,0.561,0.498,True
+SYN-P055,Phase II,Immunology,6,0.57,0.532,True
+SYN-P055,Phase II,Immunology,7,0.58,0.532,True
+SYN-P055,Phase II,Immunology,8,0.589,0.49,True
+SYN-P055,Phase II,Immunology,9,0.598,0.664,True
+SYN-P055,Phase II,Immunology,10,0.607,0.469,True
+SYN-P055,Phase II,Immunology,11,0.616,0.671,True
+SYN-P055,Phase II,Immunology,12,0.626,0.728,True
+SYN-P055,Phase II,Immunology,13,0.635,0.524,True
+SYN-P055,Phase II,Immunology,14,0.644,0.706,True
+SYN-P055,Phase II,Immunology,15,0.653,0.69,True
+SYN-P055,Phase II,Immunology,16,0.662,0.427,True
+SYN-P055,Phase II,Immunology,17,0.672,0.542,True
+SYN-P055,Phase II,Immunology,18,0.681,0.635,True
+SYN-P055,Phase II,Immunology,19,0.69,0.924,True
+SYN-P055,Phase II,Immunology,20,0.699,0.724,True
+SYN-P055,Phase II,Immunology,21,0.708,1.039,True
+SYN-P055,Phase II,Immunology,22,0.718,0.742,True
+SYN-P055,Phase II,Immunology,23,0.727,0.721,True
+SYN-P055,Phase II,Immunology,24,0.736,0.678,True
+SYN-P095,Preclinical,Immunology,1,1.201,1.28,True
+SYN-P095,Preclinical,Immunology,2,1.222,1.278,True
+SYN-P095,Preclinical,Immunology,3,1.243,1.041,True
+SYN-P095,Preclinical,Immunology,4,1.264,1.955,True
+SYN-P095,Preclinical,Immunology,5,1.285,1.787,True
+SYN-P095,Preclinical,Immunology,6,1.306,1.424,True
+SYN-P095,Preclinical,Immunology,7,1.327,1.35,True
+SYN-P095,Preclinical,Immunology,8,1.348,1.097,True
+SYN-P095,Preclinical,Immunology,9,1.369,1.665,True
+SYN-P095,Preclinical,Immunology,10,1.39,1.118,True
+SYN-P095,Preclinical,Immunology,11,1.411,1.576,True
+SYN-P095,Preclinical,Immunology,12,1.432,1.301,True
+SYN-P095,Preclinical,Immunology,13,1.453,1.261,True
+SYN-P095,Preclinical,Immunology,14,1.474,1.213,True
+SYN-P095,Preclinical,Immunology,15,1.495,2.161,True
+SYN-P095,Preclinical,Immunology,16,1.516,1.595,True
+SYN-P095,Preclinical,Immunology,17,1.538,1.586,True
+SYN-P095,Preclinical,Immunology,18,1.559,3.453,True
+SYN-P095,Preclinical,Immunology,19,1.58,2.012,True
+SYN-P095,Preclinical,Immunology,20,1.601,1.329,True
+SYN-P095,Preclinical,Immunology,21,1.622,1.35,True
+SYN-P095,Preclinical,Immunology,22,1.643,2.194,True
+SYN-P095,Preclinical,Immunology,23,1.664,2.018,True
+SYN-P095,Preclinical,Immunology,24,1.685,1.598,True
+SYN-P063,Preclinical,Immunology,1,1.256,1.444,True
+SYN-P063,Preclinical,Immunology,2,1.278,1.997,True
+SYN-P063,Preclinical,Immunology,3,1.3,1.484,True
+SYN-P063,Preclinical,Immunology,4,1.322,2.146,True
+SYN-P063,Preclinical,Immunology,5,1.344,1.408,True
+SYN-P063,Preclinical,Immunology,6,1.366,1.242,True
+SYN-P063,Preclinical,Immunology,7,1.388,1.687,True
+SYN-P063,Preclinical,Immunology,8,1.41,1.401,True
+SYN-P063,Preclinical,Immunology,9,1.432,1.687,True
+SYN-P063,Preclinical,Immunology,10,1.454,2.286,True
+SYN-P063,Preclinical,Immunology,11,1.477,1.269,True
+SYN-P063,Preclinical,Immunology,12,1.499,1.811,True
+SYN-P063,Preclinical,Immunology,13,1.521,1.639,True
+SYN-P063,Preclinical,Immunology,14,1.543,1.518,True
+SYN-P063,Preclinical,Immunology,15,1.565,2.209,True
+SYN-P063,Preclinical,Immunology,16,1.587,1.534,True
+SYN-P063,Preclinical,Immunology,17,1.609,1.768,True
+SYN-P063,Preclinical,Immunology,18,1.631,1.518,True
+SYN-P063,Preclinical,Immunology,19,1.653,1.766,True
+SYN-P063,Preclinical,Immunology,20,1.675,1.604,True
+SYN-P063,Preclinical,Immunology,21,1.697,1.722,True
+SYN-P063,Preclinical,Immunology,22,1.719,1.845,True
+SYN-P063,Preclinical,Immunology,23,1.741,1.616,True
+SYN-P063,Preclinical,Immunology,24,1.763,1.341,True
+SYN-P185,Phase III,Infectious Disease,1,0.718,0.93,True
+SYN-P185,Phase III,Infectious Disease,2,0.731,0.831,True
+SYN-P185,Phase III,Infectious Disease,3,0.743,0.762,True
+SYN-P185,Phase III,Infectious Disease,4,0.756,1.041,True
+SYN-P185,Phase III,Infectious Disease,5,0.769,0.677,True
+SYN-P185,Phase III,Infectious Disease,6,0.781,0.586,True
+SYN-P185,Phase III,Infectious Disease,7,0.794,0.827,True
+SYN-P185,Phase III,Infectious Disease,8,0.806,0.877,True
+SYN-P185,Phase III,Infectious Disease,9,0.819,0.999,True
+SYN-P185,Phase III,Infectious Disease,10,0.832,0.791,True
+SYN-P185,Phase III,Infectious Disease,11,0.844,0.816,True
+SYN-P185,Phase III,Infectious Disease,12,0.857,1.008,True
+SYN-P185,Phase III,Infectious Disease,13,0.869,0.978,True
+SYN-P185,Phase III,Infectious Disease,14,0.882,0.895,True
+SYN-P185,Phase III,Infectious Disease,15,0.895,1.007,True
+SYN-P185,Phase III,Infectious Disease,16,0.907,0.971,True
+SYN-P185,Phase III,Infectious Disease,17,0.92,0.865,True
+SYN-P185,Phase III,Infectious Disease,18,0.932,0.88,True
+SYN-P185,Phase III,Infectious Disease,19,0.945,0.823,True
+SYN-P185,Phase III,Infectious Disease,20,0.958,0.79,True
+SYN-P185,Phase III,Infectious Disease,21,0.97,1.1,True
+SYN-P185,Phase III,Infectious Disease,22,0.983,0.881,True
+SYN-P185,Phase III,Infectious Disease,23,0.995,0.83,True
+SYN-P185,Phase III,Infectious Disease,24,1.008,0.911,True
+SYN-P068,Phase III,Rare Disease,1,0.677,0.612,True
+SYN-P068,Phase III,Rare Disease,2,0.689,0.675,True
+SYN-P068,Phase III,Rare Disease,3,0.701,0.783,True
+SYN-P068,Phase III,Rare Disease,4,0.712,0.552,True
+SYN-P068,Phase III,Rare Disease,5,0.724,0.626,True
+SYN-P068,Phase III,Rare Disease,6,0.736,0.761,True
+SYN-P068,Phase III,Rare Disease,7,0.748,0.651,True
+SYN-P068,Phase III,Rare Disease,8,0.76,0.704,True
+SYN-P068,Phase III,Rare Disease,9,0.772,0.961,True
+SYN-P068,Phase III,Rare Disease,10,0.784,0.628,True
+SYN-P068,Phase III,Rare Disease,11,0.796,0.96,True
+SYN-P068,Phase III,Rare Disease,12,0.807,0.887,True
+SYN-P068,Phase III,Rare Disease,13,0.819,0.737,True
+SYN-P068,Phase III,Rare Disease,14,0.831,0.92,True
+SYN-P068,Phase III,Rare Disease,15,0.843,0.946,True
+SYN-P068,Phase III,Rare Disease,16,0.855,1.528,True
+SYN-P068,Phase III,Rare Disease,17,0.867,1.062,True
+SYN-P068,Phase III,Rare Disease,18,0.879,1.022,True
+SYN-P068,Phase III,Rare Disease,19,0.891,0.761,True
+SYN-P068,Phase III,Rare Disease,20,0.902,1.142,True
+SYN-P068,Phase III,Rare Disease,21,0.914,1.032,True
+SYN-P068,Phase III,Rare Disease,22,0.926,1.056,True
+SYN-P068,Phase III,Rare Disease,23,0.938,0.976,True
+SYN-P068,Phase III,Rare Disease,24,0.95,1.673,True
+SYN-P210,Preclinical,Cardiology,1,0.307,0.274,True
+SYN-P210,Preclinical,Cardiology,2,0.312,0.264,True
+SYN-P210,Preclinical,Cardiology,3,0.318,0.482,True
+SYN-P210,Preclinical,Cardiology,4,0.323,0.287,True
+SYN-P210,Preclinical,Cardiology,5,0.329,0.306,True
+SYN-P210,Preclinical,Cardiology,6,0.334,0.363,True
+SYN-P210,Preclinical,Cardiology,7,0.339,0.375,True
+SYN-P210,Preclinical,Cardiology,8,0.345,0.547,True
+SYN-P210,Preclinical,Cardiology,9,0.35,0.33,True
+SYN-P210,Preclinical,Cardiology,10,0.356,0.357,True
+SYN-P210,Preclinical,Cardiology,11,0.361,0.272,True
+SYN-P210,Preclinical,Cardiology,12,0.366,0.265,True
+SYN-P210,Preclinical,Cardiology,13,0.372,0.52,True
+SYN-P210,Preclinical,Cardiology,14,0.377,0.852,True
+SYN-P210,Preclinical,Cardiology,15,0.383,0.299,True
+SYN-P210,Preclinical,Cardiology,16,0.388,0.443,True
+SYN-P210,Preclinical,Cardiology,17,0.393,0.462,True
+SYN-P210,Preclinical,Cardiology,18,0.399,0.382,True
+SYN-P210,Preclinical,Cardiology,19,0.404,0.321,True
+SYN-P210,Preclinical,Cardiology,20,0.409,0.485,True
+SYN-P210,Preclinical,Cardiology,21,0.415,0.329,True
+SYN-P210,Preclinical,Cardiology,22,0.42,0.468,True
+SYN-P210,Preclinical,Cardiology,23,0.426,0.527,True
+SYN-P210,Preclinical,Cardiology,24,0.431,0.363,True
+SYN-P101,Phase II,Neurology,1,0.629,0.579,True
+SYN-P101,Phase II,Neurology,2,0.64,1.259,True
+SYN-P101,Phase II,Neurology,3,0.651,0.672,True
+SYN-P101,Phase II,Neurology,4,0.662,0.545,True
+SYN-P101,Phase II,Neurology,5,0.673,0.703,True
+SYN-P101,Phase II,Neurology,6,0.684,0.684,True
+SYN-P101,Phase II,Neurology,7,0.695,0.95,True
+SYN-P101,Phase II,Neurology,8,0.706,0.617,True
+SYN-P101,Phase II,Neurology,9,0.717,0.756,True
+SYN-P101,Phase II,Neurology,10,0.728,0.724,True
+SYN-P101,Phase II,Neurology,11,0.74,0.954,True
+SYN-P101,Phase II,Neurology,12,0.751,0.523,True
+SYN-P101,Phase II,Neurology,13,0.762,0.715,True
+SYN-P101,Phase II,Neurology,14,0.773,0.822,True
+SYN-P101,Phase II,Neurology,15,0.784,0.908,True
+SYN-P101,Phase II,Neurology,16,0.795,1.015,True
+SYN-P101,Phase II,Neurology,17,0.806,0.7,True
+SYN-P101,Phase II,Neurology,18,0.817,0.872,True
+SYN-P101,Phase II,Neurology,19,0.828,0.622,True
+SYN-P101,Phase II,Neurology,20,0.839,0.856,True
+SYN-P101,Phase II,Neurology,21,0.85,1.026,True
+SYN-P101,Phase II,Neurology,22,0.861,0.642,True
+SYN-P101,Phase II,Neurology,23,0.872,0.971,True
+SYN-P101,Phase II,Neurology,24,0.883,1.237,True
+SYN-P039,Phase III,Infectious Disease,1,0.923,1.104,True
+SYN-P039,Phase III,Infectious Disease,2,0.939,0.782,True
+SYN-P039,Phase III,Infectious Disease,3,0.955,1.064,True
+SYN-P039,Phase III,Infectious Disease,4,0.971,0.855,True
+SYN-P039,Phase III,Infectious Disease,5,0.987,0.784,True
+SYN-P039,Phase III,Infectious Disease,6,1.004,1.177,True
+SYN-P039,Phase III,Infectious Disease,7,1.02,0.808,True
+SYN-P039,Phase III,Infectious Disease,8,1.036,1.034,True
+SYN-P039,Phase III,Infectious Disease,9,1.052,0.758,True
+SYN-P039,Phase III,Infectious Disease,10,1.068,1.015,True
+SYN-P039,Phase III,Infectious Disease,11,1.085,1.369,True
+SYN-P039,Phase III,Infectious Disease,12,1.101,1.215,True
+SYN-P039,Phase III,Infectious Disease,13,1.117,1.115,True
+SYN-P039,Phase III,Infectious Disease,14,1.133,1.17,True
+SYN-P039,Phase III,Infectious Disease,15,1.149,1.056,True
+SYN-P039,Phase III,Infectious Disease,16,1.165,0.841,True
+SYN-P039,Phase III,Infectious Disease,17,1.182,1.654,True
+SYN-P039,Phase III,Infectious Disease,18,1.198,1.292,True
+SYN-P039,Phase III,Infectious Disease,19,1.214,0.776,True
+SYN-P039,Phase III,Infectious Disease,20,1.23,1.642,True
+SYN-P039,Phase III,Infectious Disease,21,1.246,1.244,True
+SYN-P039,Phase III,Infectious Disease,22,1.263,1.456,True
+SYN-P039,Phase III,Infectious Disease,23,1.279,1.345,True
+SYN-P039,Phase III,Infectious Disease,24,1.295,1.126,True
+SYN-P012,Phase I,Immunology,1,0.965,0.954,True
+SYN-P012,Phase I,Immunology,2,0.982,1.202,True
+SYN-P012,Phase I,Immunology,3,0.999,1.326,True
+SYN-P012,Phase I,Immunology,4,1.016,0.85,True
+SYN-P012,Phase I,Immunology,5,1.032,1.192,True
+SYN-P012,Phase I,Immunology,6,1.049,1.059,True
+SYN-P012,Phase I,Immunology,7,1.066,0.868,True
+SYN-P012,Phase I,Immunology,8,1.083,1.056,True
+SYN-P012,Phase I,Immunology,9,1.1,1.023,True
+SYN-P012,Phase I,Immunology,10,1.117,1.174,True
+SYN-P012,Phase I,Immunology,11,1.134,1.282,True
+SYN-P012,Phase I,Immunology,12,1.151,1.06,True
+SYN-P012,Phase I,Immunology,13,1.168,1.02,True
+SYN-P012,Phase I,Immunology,14,1.185,1.196,True
+SYN-P012,Phase I,Immunology,15,1.202,1.161,True
+SYN-P012,Phase I,Immunology,16,1.219,1.278,True
+SYN-P012,Phase I,Immunology,17,1.236,1.293,True
+SYN-P012,Phase I,Immunology,18,1.252,0.926,True
+SYN-P012,Phase I,Immunology,19,1.269,1.647,True
+SYN-P012,Phase I,Immunology,20,1.286,1.55,True
+SYN-P012,Phase I,Immunology,21,1.303,2.548,True
+SYN-P012,Phase I,Immunology,22,1.32,1.439,True
+SYN-P012,Phase I,Immunology,23,1.337,1.631,True
+SYN-P012,Phase I,Immunology,24,1.354,1.766,True
+SYN-P236,Phase II,Cardiology,1,0.427,0.363,True
+SYN-P236,Phase II,Cardiology,2,0.435,0.516,True
+SYN-P236,Phase II,Cardiology,3,0.442,0.401,True
+SYN-P236,Phase II,Cardiology,4,0.45,0.41,True
+SYN-P236,Phase II,Cardiology,5,0.457,0.652,True
+SYN-P236,Phase II,Cardiology,6,0.465,0.435,True
+SYN-P236,Phase II,Cardiology,7,0.472,0.6,True
+SYN-P236,Phase II,Cardiology,8,0.48,0.527,True
+SYN-P236,Phase II,Cardiology,9,0.487,0.477,True
+SYN-P236,Phase II,Cardiology,10,0.495,0.497,True
+SYN-P236,Phase II,Cardiology,11,0.502,0.646,True
+SYN-P236,Phase II,Cardiology,12,0.51,0.504,True
+SYN-P236,Phase II,Cardiology,13,0.517,0.415,True
+SYN-P236,Phase II,Cardiology,14,0.525,0.542,True
+SYN-P236,Phase II,Cardiology,15,0.532,0.519,True
+SYN-P236,Phase II,Cardiology,16,0.54,0.404,True
+SYN-P236,Phase II,Cardiology,17,0.547,0.66,True
+SYN-P236,Phase II,Cardiology,18,0.555,0.48,True
+SYN-P236,Phase II,Cardiology,19,0.562,0.448,True
+SYN-P236,Phase II,Cardiology,20,0.57,0.734,True
+SYN-P236,Phase II,Cardiology,21,0.577,0.509,True
+SYN-P236,Phase II,Cardiology,22,0.585,0.613,True
+SYN-P236,Phase II,Cardiology,23,0.592,0.568,True
+SYN-P236,Phase II,Cardiology,24,0.6,0.545,True
+SYN-P104,Preclinical,Rare Disease,1,0.819,0.687,True
+SYN-P104,Preclinical,Rare Disease,2,0.834,1.265,True
+SYN-P104,Preclinical,Rare Disease,3,0.848,1.071,True
+SYN-P104,Preclinical,Rare Disease,4,0.862,0.865,True
+SYN-P104,Preclinical,Rare Disease,5,0.877,0.679,True
+SYN-P104,Preclinical,Rare Disease,6,0.891,0.976,True
+SYN-P104,Preclinical,Rare Disease,7,0.906,1.277,True
+SYN-P104,Preclinical,Rare Disease,8,0.92,1.054,True
+SYN-P104,Preclinical,Rare Disease,9,0.934,0.777,True
+SYN-P104,Preclinical,Rare Disease,10,0.949,1.372,True
+SYN-P104,Preclinical,Rare Disease,11,0.963,0.956,True
+SYN-P104,Preclinical,Rare Disease,12,0.977,1.089,True
+SYN-P104,Preclinical,Rare Disease,13,0.992,0.838,True
+SYN-P104,Preclinical,Rare Disease,14,1.006,1.283,True
+SYN-P104,Preclinical,Rare Disease,15,1.021,0.846,True
+SYN-P104,Preclinical,Rare Disease,16,1.035,1.471,True
+SYN-P104,Preclinical,Rare Disease,17,1.049,1.418,True
+SYN-P104,Preclinical,Rare Disease,18,1.064,1.121,True
+SYN-P104,Preclinical,Rare Disease,19,1.078,1.505,True
+SYN-P104,Preclinical,Rare Disease,20,1.092,0.939,True
+SYN-P104,Preclinical,Rare Disease,21,1.107,1.45,True
+SYN-P104,Preclinical,Rare Disease,22,1.121,2.162,True
+SYN-P104,Preclinical,Rare Disease,23,1.136,1.055,True
+SYN-P104,Preclinical,Rare Disease,24,1.15,1.674,True
+SYN-P081,Phase III,Immunology,1,0.869,0.833,True
+SYN-P081,Phase III,Immunology,2,0.884,0.904,True
+SYN-P081,Phase III,Immunology,3,0.899,0.709,True
+SYN-P081,Phase III,Immunology,4,0.914,1.006,True
+SYN-P081,Phase III,Immunology,5,0.929,0.963,True
+SYN-P081,Phase III,Immunology,6,0.945,1.426,True
+SYN-P081,Phase III,Immunology,7,0.96,0.794,True
+SYN-P081,Phase III,Immunology,8,0.975,0.938,True
+SYN-P081,Phase III,Immunology,9,0.99,1.243,True
+SYN-P081,Phase III,Immunology,10,1.006,0.839,True
+SYN-P081,Phase III,Immunology,11,1.021,1.721,True
+SYN-P081,Phase III,Immunology,12,1.036,1.196,True
+SYN-P081,Phase III,Immunology,13,1.051,1.005,True
+SYN-P081,Phase III,Immunology,14,1.067,1.115,True
+SYN-P081,Phase III,Immunology,15,1.082,0.675,True
+SYN-P081,Phase III,Immunology,16,1.097,0.948,True
+SYN-P081,Phase III,Immunology,17,1.112,0.939,True
+SYN-P081,Phase III,Immunology,18,1.128,1.546,True
+SYN-P081,Phase III,Immunology,19,1.143,1.037,True
+SYN-P081,Phase III,Immunology,20,1.158,1.102,True
+SYN-P081,Phase III,Immunology,21,1.173,1.096,True
+SYN-P081,Phase III,Immunology,22,1.189,1.108,True
+SYN-P081,Phase III,Immunology,23,1.204,1.082,True
+SYN-P081,Phase III,Immunology,24,1.219,1.224,True
+SYN-P108,Phase III,Oncology,1,1.937,1.688,True
+SYN-P108,Phase III,Oncology,2,1.971,1.752,True
+SYN-P108,Phase III,Oncology,3,2.005,1.651,True
+SYN-P108,Phase III,Oncology,4,2.039,2.295,True
+SYN-P108,Phase III,Oncology,5,2.073,2.341,True
+SYN-P108,Phase III,Oncology,6,2.107,3.267,True
+SYN-P108,Phase III,Oncology,7,2.141,1.761,True
+SYN-P108,Phase III,Oncology,8,2.175,1.764,True
+SYN-P108,Phase III,Oncology,9,2.209,5.216,True
+SYN-P108,Phase III,Oncology,10,2.243,2.243,True
+SYN-P108,Phase III,Oncology,11,2.277,1.908,True
+SYN-P108,Phase III,Oncology,12,2.311,2.752,True
+SYN-P108,Phase III,Oncology,13,2.345,2.476,True
+SYN-P108,Phase III,Oncology,14,2.379,2.143,True
+SYN-P108,Phase III,Oncology,15,2.413,1.955,True
+SYN-P108,Phase III,Oncology,16,2.447,2.053,True
+SYN-P108,Phase III,Oncology,17,2.481,2.084,True
+SYN-P108,Phase III,Oncology,18,2.515,2.86,True
+SYN-P108,Phase III,Oncology,19,2.549,2.445,True
+SYN-P108,Phase III,Oncology,20,2.583,2.001,True
+SYN-P108,Phase III,Oncology,21,2.617,2.227,True
+SYN-P108,Phase III,Oncology,22,2.651,2.765,True
+SYN-P108,Phase III,Oncology,23,2.685,4.813,True
+SYN-P108,Phase III,Oncology,24,2.719,1.859,True
+SYN-P106,Phase III,Oncology,1,0.735,0.898,True
+SYN-P106,Phase III,Oncology,2,0.747,0.768,True
+SYN-P106,Phase III,Oncology,3,0.76,0.674,True
+SYN-P106,Phase III,Oncology,4,0.773,0.688,True
+SYN-P106,Phase III,Oncology,5,0.786,0.848,True
+SYN-P106,Phase III,Oncology,6,0.799,0.628,True
+SYN-P106,Phase III,Oncology,7,0.812,0.811,True
+SYN-P106,Phase III,Oncology,8,0.825,0.919,True
+SYN-P106,Phase III,Oncology,9,0.838,0.811,True
+SYN-P106,Phase III,Oncology,10,0.851,1.194,True
+SYN-P106,Phase III,Oncology,11,0.863,0.82,True
+SYN-P106,Phase III,Oncology,12,0.876,0.714,True
+SYN-P106,Phase III,Oncology,13,0.889,0.787,True
+SYN-P106,Phase III,Oncology,14,0.902,0.846,True
+SYN-P106,Phase III,Oncology,15,0.915,0.749,True
+SYN-P106,Phase III,Oncology,16,0.928,1.082,True
+SYN-P106,Phase III,Oncology,17,0.941,0.877,True
+SYN-P106,Phase III,Oncology,18,0.954,0.968,True
+SYN-P106,Phase III,Oncology,19,0.967,1.058,True
+SYN-P106,Phase III,Oncology,20,0.979,0.894,True
+SYN-P106,Phase III,Oncology,21,0.992,1.081,True
+SYN-P106,Phase III,Oncology,22,1.005,1.013,True
+SYN-P106,Phase III,Oncology,23,1.018,1.238,True
+SYN-P106,Phase III,Oncology,24,1.031,0.733,True
+SYN-P219,Phase I,Oncology,1,0.861,1.025,True
+SYN-P219,Phase I,Oncology,2,0.877,1.065,True
+SYN-P219,Phase I,Oncology,3,0.892,0.978,True
+SYN-P219,Phase I,Oncology,4,0.907,0.795,True
+SYN-P219,Phase I,Oncology,5,0.922,1.027,True
+SYN-P219,Phase I,Oncology,6,0.937,1.065,True
+SYN-P219,Phase I,Oncology,7,0.952,1.072,True
+SYN-P219,Phase I,Oncology,8,0.967,1.004,True
+SYN-P219,Phase I,Oncology,9,0.982,0.907,True
+SYN-P219,Phase I,Oncology,10,0.997,0.673,True
+SYN-P219,Phase I,Oncology,11,1.013,0.903,True
+SYN-P219,Phase I,Oncology,12,1.028,1.324,True
+SYN-P219,Phase I,Oncology,13,1.043,1.251,True
+SYN-P219,Phase I,Oncology,14,1.058,0.756,True
+SYN-P219,Phase I,Oncology,15,1.073,1.118,True
+SYN-P219,Phase I,Oncology,16,1.088,0.994,True
+SYN-P219,Phase I,Oncology,17,1.103,1.357,True
+SYN-P219,Phase I,Oncology,18,1.118,1.303,True
+SYN-P219,Phase I,Oncology,19,1.133,1.117,True
+SYN-P219,Phase I,Oncology,20,1.149,1.17,True
+SYN-P219,Phase I,Oncology,21,1.164,0.829,True
+SYN-P219,Phase I,Oncology,22,1.179,1.59,True
+SYN-P219,Phase I,Oncology,23,1.194,1.317,True
+SYN-P219,Phase I,Oncology,24,1.209,1.095,True
+SYN-P110,Phase II,Oncology,1,0.74,1.072,True
+SYN-P110,Phase II,Oncology,2,0.753,0.775,True
+SYN-P110,Phase II,Oncology,3,0.766,0.922,True
+SYN-P110,Phase II,Oncology,4,0.778,1.477,True
+SYN-P110,Phase II,Oncology,5,0.791,0.93,True
+SYN-P110,Phase II,Oncology,6,0.804,1.009,True
+SYN-P110,Phase II,Oncology,7,0.817,0.71,True
+SYN-P110,Phase II,Oncology,8,0.83,0.749,True
+SYN-P110,Phase II,Oncology,9,0.843,0.776,True
+SYN-P110,Phase II,Oncology,10,0.856,2.2,True
+SYN-P110,Phase II,Oncology,11,0.869,0.952,True
+SYN-P110,Phase II,Oncology,12,0.882,0.828,True
+SYN-P110,Phase II,Oncology,13,0.895,0.756,True
+SYN-P110,Phase II,Oncology,14,0.908,1.041,True
+SYN-P110,Phase II,Oncology,15,0.921,0.914,True
+SYN-P110,Phase II,Oncology,16,0.934,0.86,True
+SYN-P110,Phase II,Oncology,17,0.947,1.005,True
+SYN-P110,Phase II,Oncology,18,0.96,0.974,True
+SYN-P110,Phase II,Oncology,19,0.973,1.128,True
+SYN-P110,Phase II,Oncology,20,0.986,0.923,True
+SYN-P110,Phase II,Oncology,21,0.999,1.141,True
+SYN-P110,Phase II,Oncology,22,1.012,1.201,True
+SYN-P110,Phase II,Oncology,23,1.025,1.102,True
+SYN-P110,Phase II,Oncology,24,1.038,1.565,True
+SYN-P091,Phase II,Neurology,1,1.094,1.192,True
+SYN-P091,Phase II,Neurology,2,1.114,1.312,True
+SYN-P091,Phase II,Neurology,3,1.133,1.179,True
+SYN-P091,Phase II,Neurology,4,1.152,1.485,True
+SYN-P091,Phase II,Neurology,5,1.171,1.101,True
+SYN-P091,Phase II,Neurology,6,1.19,1.006,True
+SYN-P091,Phase II,Neurology,7,1.21,1.467,True
+SYN-P091,Phase II,Neurology,8,1.229,0.976,True
+SYN-P091,Phase II,Neurology,9,1.248,1.401,True
+SYN-P091,Phase II,Neurology,10,1.267,1.37,True
+SYN-P091,Phase II,Neurology,11,1.286,1.105,True
+SYN-P091,Phase II,Neurology,12,1.306,1.249,True
+SYN-P091,Phase II,Neurology,13,1.325,1.296,True
+SYN-P091,Phase II,Neurology,14,1.344,1.114,True
+SYN-P091,Phase II,Neurology,15,1.363,1.922,True
+SYN-P091,Phase II,Neurology,16,1.382,1.774,True
+SYN-P091,Phase II,Neurology,17,1.402,1.219,True
+SYN-P091,Phase II,Neurology,18,1.421,1.268,True
+SYN-P091,Phase II,Neurology,19,1.44,1.93,True
+SYN-P091,Phase II,Neurology,20,1.459,1.133,True
+SYN-P091,Phase II,Neurology,21,1.478,2.021,True
+SYN-P091,Phase II,Neurology,22,1.498,1.178,True
+SYN-P091,Phase II,Neurology,23,1.517,1.666,True
+SYN-P091,Phase II,Neurology,24,1.536,1.664,True
+SYN-P186,Phase II,Neurology,1,1.279,1.621,True
+SYN-P186,Phase II,Neurology,2,1.301,1.273,True
+SYN-P186,Phase II,Neurology,3,1.324,2.241,True
+SYN-P186,Phase II,Neurology,4,1.346,1.587,True
+SYN-P186,Phase II,Neurology,5,1.369,1.74,True
+SYN-P186,Phase II,Neurology,6,1.391,1.244,True
+SYN-P186,Phase II,Neurology,7,1.414,1.075,True
+SYN-P186,Phase II,Neurology,8,1.436,1.637,True
+SYN-P186,Phase II,Neurology,9,1.458,1.572,True
+SYN-P186,Phase II,Neurology,10,1.481,2.271,True
+SYN-P186,Phase II,Neurology,11,1.503,1.422,True
+SYN-P186,Phase II,Neurology,12,1.526,1.352,True
+SYN-P186,Phase II,Neurology,13,1.548,1.638,True
+SYN-P186,Phase II,Neurology,14,1.571,1.44,True
+SYN-P186,Phase II,Neurology,15,1.593,1.519,True
+SYN-P186,Phase II,Neurology,16,1.615,1.362,True
+SYN-P186,Phase II,Neurology,17,1.638,1.081,True
+SYN-P186,Phase II,Neurology,18,1.66,1.569,True
+SYN-P186,Phase II,Neurology,19,1.683,1.612,True
+SYN-P186,Phase II,Neurology,20,1.705,1.588,True
+SYN-P186,Phase II,Neurology,21,1.728,1.651,True
+SYN-P186,Phase II,Neurology,22,1.75,2.133,True
+SYN-P186,Phase II,Neurology,23,1.773,1.837,True
+SYN-P186,Phase II,Neurology,24,1.795,2.122,True
+SYN-P160,Phase III,Cardiology,1,0.751,0.72,True
+SYN-P160,Phase III,Cardiology,2,0.764,0.843,True
+SYN-P160,Phase III,Cardiology,3,0.777,0.779,True
+SYN-P160,Phase III,Cardiology,4,0.79,0.884,True
+SYN-P160,Phase III,Cardiology,5,0.804,0.634,True
+SYN-P160,Phase III,Cardiology,6,0.817,0.766,True
+SYN-P160,Phase III,Cardiology,7,0.83,1.082,True
+SYN-P160,Phase III,Cardiology,8,0.843,1.054,True
+SYN-P160,Phase III,Cardiology,9,0.856,0.9,True
+SYN-P160,Phase III,Cardiology,10,0.87,0.997,True
+SYN-P160,Phase III,Cardiology,11,0.883,0.973,True
+SYN-P160,Phase III,Cardiology,12,0.896,0.931,True
+SYN-P160,Phase III,Cardiology,13,0.909,0.717,True
+SYN-P160,Phase III,Cardiology,14,0.922,1.025,True
+SYN-P160,Phase III,Cardiology,15,0.935,0.717,True
+SYN-P160,Phase III,Cardiology,16,0.949,0.967,True
+SYN-P160,Phase III,Cardiology,17,0.962,0.946,True
+SYN-P160,Phase III,Cardiology,18,0.975,0.857,True
+SYN-P160,Phase III,Cardiology,19,0.988,1.877,True
+SYN-P160,Phase III,Cardiology,20,1.001,1.463,True
+SYN-P160,Phase III,Cardiology,21,1.014,0.881,True
+SYN-P160,Phase III,Cardiology,22,1.028,1.092,True
+SYN-P160,Phase III,Cardiology,23,1.041,0.784,True
+SYN-P160,Phase III,Cardiology,24,1.054,1.879,True
+SYN-P067,Phase III,Neurology,1,1.34,1.486,True
+SYN-P067,Phase III,Neurology,2,1.364,1.562,True
+SYN-P067,Phase III,Neurology,3,1.387,1.418,True
+SYN-P067,Phase III,Neurology,4,1.411,1.519,True
+SYN-P067,Phase III,Neurology,5,1.434,1.654,True
+SYN-P067,Phase III,Neurology,6,1.458,2.064,True
+SYN-P067,Phase III,Neurology,7,1.481,1.555,True
+SYN-P067,Phase III,Neurology,8,1.505,1.631,True
+SYN-P067,Phase III,Neurology,9,1.528,1.927,True
+SYN-P067,Phase III,Neurology,10,1.552,1.58,True
+SYN-P067,Phase III,Neurology,11,1.575,1.258,True
+SYN-P067,Phase III,Neurology,12,1.599,1.51,True
+SYN-P067,Phase III,Neurology,13,1.622,1.508,True
+SYN-P067,Phase III,Neurology,14,1.646,1.812,True
+SYN-P067,Phase III,Neurology,15,1.669,1.802,True
+SYN-P067,Phase III,Neurology,16,1.693,1.54,True
+SYN-P067,Phase III,Neurology,17,1.716,1.449,True
+SYN-P067,Phase III,Neurology,18,1.74,1.571,True
+SYN-P067,Phase III,Neurology,19,1.763,1.464,True
+SYN-P067,Phase III,Neurology,20,1.787,1.155,True
+SYN-P067,Phase III,Neurology,21,1.81,1.042,True
+SYN-P067,Phase III,Neurology,22,1.834,1.503,True
+SYN-P067,Phase III,Neurology,23,1.857,1.622,True
+SYN-P067,Phase III,Neurology,24,1.881,2.498,True
+SYN-P139,Preclinical,Rare Disease,1,0.817,1.023,True
+SYN-P139,Preclinical,Rare Disease,2,0.831,0.871,True
+SYN-P139,Preclinical,Rare Disease,3,0.845,0.804,True
+SYN-P139,Preclinical,Rare Disease,4,0.859,1.069,True
+SYN-P139,Preclinical,Rare Disease,5,0.874,0.908,True
+SYN-P139,Preclinical,Rare Disease,6,0.888,1.029,True
+SYN-P139,Preclinical,Rare Disease,7,0.902,0.96,True
+SYN-P139,Preclinical,Rare Disease,8,0.917,0.83,True
+SYN-P139,Preclinical,Rare Disease,9,0.931,0.989,True
+SYN-P139,Preclinical,Rare Disease,10,0.945,0.846,True
+SYN-P139,Preclinical,Rare Disease,11,0.96,0.872,True
+SYN-P139,Preclinical,Rare Disease,12,0.974,0.862,True
+SYN-P139,Preclinical,Rare Disease,13,0.988,1.114,True
+SYN-P139,Preclinical,Rare Disease,14,1.003,1.044,True
+SYN-P139,Preclinical,Rare Disease,15,1.017,1.153,True
+SYN-P139,Preclinical,Rare Disease,16,1.031,1.068,True
+SYN-P139,Preclinical,Rare Disease,17,1.046,0.804,True
+SYN-P139,Preclinical,Rare Disease,18,1.06,0.999,True
+SYN-P139,Preclinical,Rare Disease,19,1.074,1.003,True
+SYN-P139,Preclinical,Rare Disease,20,1.089,1.031,True
+SYN-P139,Preclinical,Rare Disease,21,1.103,1.16,True
+SYN-P139,Preclinical,Rare Disease,22,1.117,0.786,True
+SYN-P139,Preclinical,Rare Disease,23,1.132,1.27,True
+SYN-P139,Preclinical,Rare Disease,24,1.146,1.407,True
+SYN-P040,Phase III,Oncology,1,0.802,0.785,True
+SYN-P040,Phase III,Oncology,2,0.816,0.683,True
+SYN-P040,Phase III,Oncology,3,0.83,1.242,True
+SYN-P040,Phase III,Oncology,4,0.844,0.74,True
+SYN-P040,Phase III,Oncology,5,0.858,0.697,True
+SYN-P040,Phase III,Oncology,6,0.872,0.911,True
+SYN-P040,Phase III,Oncology,7,0.886,0.827,True
+SYN-P040,Phase III,Oncology,8,0.9,1.247,True
+SYN-P040,Phase III,Oncology,9,0.914,0.762,True
+SYN-P040,Phase III,Oncology,10,0.928,1.215,True
+SYN-P040,Phase III,Oncology,11,0.942,0.945,True
+SYN-P040,Phase III,Oncology,12,0.956,0.793,True
+SYN-P040,Phase III,Oncology,13,0.97,0.775,True
+SYN-P040,Phase III,Oncology,14,0.984,2.248,True
+SYN-P040,Phase III,Oncology,15,0.998,0.888,True
+SYN-P040,Phase III,Oncology,16,1.012,0.846,True
+SYN-P040,Phase III,Oncology,17,1.027,1.053,True
+SYN-P040,Phase III,Oncology,18,1.041,0.979,True
+SYN-P040,Phase III,Oncology,19,1.055,1.032,True
+SYN-P040,Phase III,Oncology,20,1.069,1.398,True
+SYN-P040,Phase III,Oncology,21,1.083,1.214,True
+SYN-P040,Phase III,Oncology,22,1.097,0.981,True
+SYN-P040,Phase III,Oncology,23,1.111,1.078,True
+SYN-P040,Phase III,Oncology,24,1.125,1.538,True
+SYN-P216,Phase I,Infectious Disease,1,0.829,0.778,True
+SYN-P216,Phase I,Infectious Disease,2,0.844,0.823,True
+SYN-P216,Phase I,Infectious Disease,3,0.858,1.292,True
+SYN-P216,Phase I,Infectious Disease,4,0.873,0.903,True
+SYN-P216,Phase I,Infectious Disease,5,0.888,0.583,True
+SYN-P216,Phase I,Infectious Disease,6,0.902,0.835,True
+SYN-P216,Phase I,Infectious Disease,7,0.917,0.802,True
+SYN-P216,Phase I,Infectious Disease,8,0.931,1.743,True
+SYN-P216,Phase I,Infectious Disease,9,0.946,1.052,True
+SYN-P216,Phase I,Infectious Disease,10,0.96,0.967,True
+SYN-P216,Phase I,Infectious Disease,11,0.975,1.153,True
+SYN-P216,Phase I,Infectious Disease,12,0.989,0.839,True
+SYN-P216,Phase I,Infectious Disease,13,1.004,1.296,True
+SYN-P216,Phase I,Infectious Disease,14,1.018,1.136,True
+SYN-P216,Phase I,Infectious Disease,15,1.033,0.925,True
+SYN-P216,Phase I,Infectious Disease,16,1.048,1.151,True
+SYN-P216,Phase I,Infectious Disease,17,1.062,1.047,True
+SYN-P216,Phase I,Infectious Disease,18,1.077,0.966,True
+SYN-P216,Phase I,Infectious Disease,19,1.091,0.807,True
+SYN-P216,Phase I,Infectious Disease,20,1.106,1.636,True
+SYN-P216,Phase I,Infectious Disease,21,1.12,1.154,True
+SYN-P216,Phase I,Infectious Disease,22,1.135,1.375,True
+SYN-P216,Phase I,Infectious Disease,23,1.149,1.037,True
+SYN-P216,Phase I,Infectious Disease,24,1.164,0.882,True
+SYN-P058,Phase II,Oncology,1,0.98,1.031,True
+SYN-P058,Phase II,Oncology,2,0.998,1.06,True
+SYN-P058,Phase II,Oncology,3,1.015,1.009,True
+SYN-P058,Phase II,Oncology,4,1.032,0.969,True
+SYN-P058,Phase II,Oncology,5,1.049,1.56,True
+SYN-P058,Phase II,Oncology,6,1.066,1.23,True
+SYN-P058,Phase II,Oncology,7,1.084,0.942,True
+SYN-P058,Phase II,Oncology,8,1.101,0.927,True
+SYN-P058,Phase II,Oncology,9,1.118,1.462,True
+SYN-P058,Phase II,Oncology,10,1.135,1.259,True
+SYN-P058,Phase II,Oncology,11,1.152,1.059,True
+SYN-P058,Phase II,Oncology,12,1.17,1.109,True
+SYN-P058,Phase II,Oncology,13,1.187,1.251,True
+SYN-P058,Phase II,Oncology,14,1.204,1.241,True
+SYN-P058,Phase II,Oncology,15,1.221,1.195,True
+SYN-P058,Phase II,Oncology,16,1.238,1.306,True
+SYN-P058,Phase II,Oncology,17,1.256,1.371,True
+SYN-P058,Phase II,Oncology,18,1.273,1.375,True
+SYN-P058,Phase II,Oncology,19,1.29,1.72,True
+SYN-P058,Phase II,Oncology,20,1.307,1.146,True
+SYN-P058,Phase II,Oncology,21,1.324,1.437,True
+SYN-P058,Phase II,Oncology,22,1.342,1.345,True
+SYN-P058,Phase II,Oncology,23,1.359,1.412,True
+SYN-P058,Phase II,Oncology,24,1.376,1.504,True
+SYN-P153,Preclinical,Infectious Disease,1,1.645,1.537,True
+SYN-P153,Preclinical,Infectious Disease,2,1.674,2.163,True
+SYN-P153,Preclinical,Infectious Disease,3,1.703,2.027,True
+SYN-P153,Preclinical,Infectious Disease,4,1.732,2.061,True
+SYN-P153,Preclinical,Infectious Disease,5,1.761,1.353,True
+SYN-P153,Preclinical,Infectious Disease,6,1.789,2.171,True
+SYN-P153,Preclinical,Infectious Disease,7,1.818,2.099,True
+SYN-P153,Preclinical,Infectious Disease,8,1.847,2.003,True
+SYN-P153,Preclinical,Infectious Disease,9,1.876,2.502,True
+SYN-P153,Preclinical,Infectious Disease,10,1.905,2.596,True
+SYN-P153,Preclinical,Infectious Disease,11,1.934,2.048,True
+SYN-P153,Preclinical,Infectious Disease,12,1.963,1.376,True
+SYN-P153,Preclinical,Infectious Disease,13,1.992,1.81,True
+SYN-P153,Preclinical,Infectious Disease,14,2.02,2.19,True
+SYN-P153,Preclinical,Infectious Disease,15,2.049,2.888,True
+SYN-P153,Preclinical,Infectious Disease,16,2.078,1.689,True
+SYN-P153,Preclinical,Infectious Disease,17,2.107,2.815,True
+SYN-P153,Preclinical,Infectious Disease,18,2.136,1.552,True
+SYN-P153,Preclinical,Infectious Disease,19,2.165,2.311,True
+SYN-P153,Preclinical,Infectious Disease,20,2.194,2.571,True
+SYN-P153,Preclinical,Infectious Disease,21,2.222,2.347,True
+SYN-P153,Preclinical,Infectious Disease,22,2.251,3.383,True
+SYN-P153,Preclinical,Infectious Disease,23,2.28,2.48,True
+SYN-P153,Preclinical,Infectious Disease,24,2.309,2.207,True
+SYN-P208,Preclinical,Cardiology,1,1.749,2.081,True
+SYN-P208,Preclinical,Cardiology,2,1.78,1.742,True
+SYN-P208,Preclinical,Cardiology,3,1.811,2.006,True
+SYN-P208,Preclinical,Cardiology,4,1.841,1.981,True
+SYN-P208,Preclinical,Cardiology,5,1.872,1.676,True
+SYN-P208,Preclinical,Cardiology,6,1.903,2.367,True
+SYN-P208,Preclinical,Cardiology,7,1.933,1.93,True
+SYN-P208,Preclinical,Cardiology,8,1.964,1.864,True
+SYN-P208,Preclinical,Cardiology,9,1.995,1.93,True
+SYN-P208,Preclinical,Cardiology,10,2.025,2.165,True
+SYN-P208,Preclinical,Cardiology,11,2.056,2.24,True
+SYN-P208,Preclinical,Cardiology,12,2.087,2.536,True
+SYN-P208,Preclinical,Cardiology,13,2.117,2.917,True
+SYN-P208,Preclinical,Cardiology,14,2.148,1.959,True
+SYN-P208,Preclinical,Cardiology,15,2.179,2.536,True
+SYN-P208,Preclinical,Cardiology,16,2.209,1.907,True
+SYN-P208,Preclinical,Cardiology,17,2.24,2.968,True
+SYN-P208,Preclinical,Cardiology,18,2.271,2.006,True
+SYN-P208,Preclinical,Cardiology,19,2.302,1.628,True
+SYN-P208,Preclinical,Cardiology,20,2.332,2.709,True
+SYN-P208,Preclinical,Cardiology,21,2.363,2.523,True
+SYN-P208,Preclinical,Cardiology,22,2.394,2.401,True
+SYN-P208,Preclinical,Cardiology,23,2.424,5.623,True
+SYN-P208,Preclinical,Cardiology,24,2.455,1.958,True
+SYN-P202,Phase III,Infectious Disease,1,1.999,2.382,True
+SYN-P202,Phase III,Infectious Disease,2,2.034,2.098,True
+SYN-P202,Phase III,Infectious Disease,3,2.069,2.236,True
+SYN-P202,Phase III,Infectious Disease,4,2.104,2.324,True
+SYN-P202,Phase III,Infectious Disease,5,2.139,2.137,True
+SYN-P202,Phase III,Infectious Disease,6,2.174,2.861,True
+SYN-P202,Phase III,Infectious Disease,7,2.209,2.52,True
+SYN-P202,Phase III,Infectious Disease,8,2.244,2.084,True
+SYN-P202,Phase III,Infectious Disease,9,2.279,2.387,True
+SYN-P202,Phase III,Infectious Disease,10,2.314,2.17,True
+SYN-P202,Phase III,Infectious Disease,11,2.349,2.802,True
+SYN-P202,Phase III,Infectious Disease,12,2.384,2.682,True
+SYN-P202,Phase III,Infectious Disease,13,2.419,2.609,True
+SYN-P202,Phase III,Infectious Disease,14,2.454,2.175,True
+SYN-P202,Phase III,Infectious Disease,15,2.489,2.332,True
+SYN-P202,Phase III,Infectious Disease,16,2.524,2.734,True
+SYN-P202,Phase III,Infectious Disease,17,2.56,2.351,True
+SYN-P202,Phase III,Infectious Disease,18,2.595,3.455,True
+SYN-P202,Phase III,Infectious Disease,19,2.63,2.282,True
+SYN-P202,Phase III,Infectious Disease,20,2.665,3.184,True
+SYN-P202,Phase III,Infectious Disease,21,2.7,3.542,True
+SYN-P202,Phase III,Infectious Disease,22,2.735,2.029,True
+SYN-P202,Phase III,Infectious Disease,23,2.77,2.805,True
+SYN-P202,Phase III,Infectious Disease,24,2.805,2.779,True
+SYN-P150,Phase I,Oncology,1,1.063,0.825,True
+SYN-P150,Phase I,Oncology,2,1.082,0.93,True
+SYN-P150,Phase I,Oncology,3,1.1,0.862,True
+SYN-P150,Phase I,Oncology,4,1.119,1.301,True
+SYN-P150,Phase I,Oncology,5,1.138,1.142,True
+SYN-P150,Phase I,Oncology,6,1.156,0.74,True
+SYN-P150,Phase I,Oncology,7,1.175,1.369,True
+SYN-P150,Phase I,Oncology,8,1.194,0.824,True
+SYN-P150,Phase I,Oncology,9,1.212,1.236,True
+SYN-P150,Phase I,Oncology,10,1.231,1.33,True
+SYN-P150,Phase I,Oncology,11,1.25,1.023,True
+SYN-P150,Phase I,Oncology,12,1.268,1.495,True
+SYN-P150,Phase I,Oncology,13,1.287,1.205,True
+SYN-P150,Phase I,Oncology,14,1.305,1.184,True
+SYN-P150,Phase I,Oncology,15,1.324,1.34,True
+SYN-P150,Phase I,Oncology,16,1.343,1.601,True
+SYN-P150,Phase I,Oncology,17,1.361,1.173,True
+SYN-P150,Phase I,Oncology,18,1.38,1.269,True
+SYN-P150,Phase I,Oncology,19,1.399,1.145,True
+SYN-P150,Phase I,Oncology,20,1.417,1.055,True
+SYN-P150,Phase I,Oncology,21,1.436,1.673,True
+SYN-P150,Phase I,Oncology,22,1.455,1.289,True
+SYN-P150,Phase I,Oncology,23,1.473,1.962,True
+SYN-P150,Phase I,Oncology,24,1.492,1.091,True
+SYN-P114,Preclinical,Cardiology,1,0.802,0.845,True
+SYN-P114,Preclinical,Cardiology,2,0.816,0.98,True
+SYN-P114,Preclinical,Cardiology,3,0.83,0.676,True
+SYN-P114,Preclinical,Cardiology,4,0.844,0.67,True
+SYN-P114,Preclinical,Cardiology,5,0.858,0.775,True
+SYN-P114,Preclinical,Cardiology,6,0.872,0.747,True
+SYN-P114,Preclinical,Cardiology,7,0.886,0.923,True
+SYN-P114,Preclinical,Cardiology,8,0.9,0.601,True
+SYN-P114,Preclinical,Cardiology,9,0.914,0.841,True
+SYN-P114,Preclinical,Cardiology,10,0.928,0.87,True
+SYN-P114,Preclinical,Cardiology,11,0.942,1.111,True
+SYN-P114,Preclinical,Cardiology,12,0.956,0.882,True
+SYN-P114,Preclinical,Cardiology,13,0.97,0.867,True
+SYN-P114,Preclinical,Cardiology,14,0.984,1.035,True
+SYN-P114,Preclinical,Cardiology,15,0.998,1.087,True
+SYN-P114,Preclinical,Cardiology,16,1.012,0.786,True
+SYN-P114,Preclinical,Cardiology,17,1.027,0.958,True
+SYN-P114,Preclinical,Cardiology,18,1.041,1.634,True
+SYN-P114,Preclinical,Cardiology,19,1.055,1.17,True
+SYN-P114,Preclinical,Cardiology,20,1.069,1.278,True
+SYN-P114,Preclinical,Cardiology,21,1.083,1.307,True
+SYN-P114,Preclinical,Cardiology,22,1.097,1.197,True
+SYN-P114,Preclinical,Cardiology,23,1.111,1.208,True
+SYN-P114,Preclinical,Cardiology,24,1.125,2.05,True
+SYN-P225,Phase II,Oncology,1,0.776,0.93,True
+SYN-P225,Phase II,Oncology,2,0.79,0.596,True
+SYN-P225,Phase II,Oncology,3,0.803,0.709,True
+SYN-P225,Phase II,Oncology,4,0.817,1.067,True
+SYN-P225,Phase II,Oncology,5,0.83,1.033,True
+SYN-P225,Phase II,Oncology,6,0.844,0.862,True
+SYN-P225,Phase II,Oncology,7,0.858,0.777,True
+SYN-P225,Phase II,Oncology,8,0.871,0.81,True
+SYN-P225,Phase II,Oncology,9,0.885,0.991,True
+SYN-P225,Phase II,Oncology,10,0.898,1.18,True
+SYN-P225,Phase II,Oncology,11,0.912,1.241,True
+SYN-P225,Phase II,Oncology,12,0.926,1.017,True
+SYN-P225,Phase II,Oncology,13,0.939,0.739,True
+SYN-P225,Phase II,Oncology,14,0.953,0.944,True
+SYN-P225,Phase II,Oncology,15,0.966,0.782,True
+SYN-P225,Phase II,Oncology,16,0.98,1.586,True
+SYN-P225,Phase II,Oncology,17,0.994,0.98,True
+SYN-P225,Phase II,Oncology,18,1.007,1.354,True
+SYN-P225,Phase II,Oncology,19,1.021,1.238,True
+SYN-P225,Phase II,Oncology,20,1.035,0.959,True
+SYN-P225,Phase II,Oncology,21,1.048,1.461,True
+SYN-P225,Phase II,Oncology,22,1.062,1.238,True
+SYN-P225,Phase II,Oncology,23,1.075,1.015,True
+SYN-P225,Phase II,Oncology,24,1.089,1.081,True
+SYN-P180,Preclinical,Rare Disease,1,0.762,0.981,True
+SYN-P180,Preclinical,Rare Disease,2,0.776,0.73,True
+SYN-P180,Preclinical,Rare Disease,3,0.789,0.933,True
+SYN-P180,Preclinical,Rare Disease,4,0.802,0.645,True
+SYN-P180,Preclinical,Rare Disease,5,0.816,1.453,True
+SYN-P180,Preclinical,Rare Disease,6,0.829,1.06,True
+SYN-P180,Preclinical,Rare Disease,7,0.843,0.806,True
+SYN-P180,Preclinical,Rare Disease,8,0.856,0.666,True
+SYN-P180,Preclinical,Rare Disease,9,0.869,0.837,True
+SYN-P180,Preclinical,Rare Disease,10,0.883,1.227,True
+SYN-P180,Preclinical,Rare Disease,11,0.896,1.005,True
+SYN-P180,Preclinical,Rare Disease,12,0.909,1.001,True
+SYN-P180,Preclinical,Rare Disease,13,0.923,1.375,True
+SYN-P180,Preclinical,Rare Disease,14,0.936,0.852,True
+SYN-P180,Preclinical,Rare Disease,15,0.95,0.921,True
+SYN-P180,Preclinical,Rare Disease,16,0.963,0.958,True
+SYN-P180,Preclinical,Rare Disease,17,0.976,0.793,True
+SYN-P180,Preclinical,Rare Disease,18,0.99,0.911,True
+SYN-P180,Preclinical,Rare Disease,19,1.003,0.859,True
+SYN-P180,Preclinical,Rare Disease,20,1.016,0.993,True
+SYN-P180,Preclinical,Rare Disease,21,1.03,0.921,True
+SYN-P180,Preclinical,Rare Disease,22,1.043,1.185,True
+SYN-P180,Preclinical,Rare Disease,23,1.057,1.545,True
+SYN-P180,Preclinical,Rare Disease,24,1.07,0.785,True
+SYN-P077,Preclinical,Oncology,1,0.819,0.99,True
+SYN-P077,Preclinical,Oncology,2,0.833,0.892,True
+SYN-P077,Preclinical,Oncology,3,0.847,0.901,True
+SYN-P077,Preclinical,Oncology,4,0.862,0.933,True
+SYN-P077,Preclinical,Oncology,5,0.876,1.062,True
+SYN-P077,Preclinical,Oncology,6,0.89,0.788,True
+SYN-P077,Preclinical,Oncology,7,0.905,0.912,True
+SYN-P077,Preclinical,Oncology,8,0.919,0.918,True
+SYN-P077,Preclinical,Oncology,9,0.934,1.13,True
+SYN-P077,Preclinical,Oncology,10,0.948,1.332,True
+SYN-P077,Preclinical,Oncology,11,0.962,1.096,True
+SYN-P077,Preclinical,Oncology,12,0.977,0.985,True
+SYN-P077,Preclinical,Oncology,13,0.991,1.335,True
+SYN-P077,Preclinical,Oncology,14,1.005,1.283,True
+SYN-P077,Preclinical,Oncology,15,1.02,1.025,True
+SYN-P077,Preclinical,Oncology,16,1.034,1.995,True
+SYN-P077,Preclinical,Oncology,17,1.048,0.758,True
+SYN-P077,Preclinical,Oncology,18,1.063,0.779,True
+SYN-P077,Preclinical,Oncology,19,1.077,1.142,True
+SYN-P077,Preclinical,Oncology,20,1.092,0.792,True
+SYN-P077,Preclinical,Oncology,21,1.106,1.076,True
+SYN-P077,Preclinical,Oncology,22,1.12,1.057,True
+SYN-P077,Preclinical,Oncology,23,1.135,1.136,True
+SYN-P077,Preclinical,Oncology,24,1.149,1.334,True
+SYN-P229,Phase I,Rare Disease,1,1.586,1.555,True
+SYN-P229,Phase I,Rare Disease,2,1.614,1.341,True
+SYN-P229,Phase I,Rare Disease,3,1.642,2.281,True
+SYN-P229,Phase I,Rare Disease,4,1.669,1.362,True
+SYN-P229,Phase I,Rare Disease,5,1.697,1.344,True
+SYN-P229,Phase I,Rare Disease,6,1.725,1.377,True
+SYN-P229,Phase I,Rare Disease,7,1.753,2.493,True
+SYN-P229,Phase I,Rare Disease,8,1.781,1.631,True
+SYN-P229,Phase I,Rare Disease,9,1.809,1.681,True
+SYN-P229,Phase I,Rare Disease,10,1.836,1.287,True
+SYN-P229,Phase I,Rare Disease,11,1.864,2.464,True
+SYN-P229,Phase I,Rare Disease,12,1.892,2.111,True
+SYN-P229,Phase I,Rare Disease,13,1.92,1.47,True
+SYN-P229,Phase I,Rare Disease,14,1.948,2.829,True
+SYN-P229,Phase I,Rare Disease,15,1.976,2.246,True
+SYN-P229,Phase I,Rare Disease,16,2.003,1.8,True
+SYN-P229,Phase I,Rare Disease,17,2.031,2.203,True
+SYN-P229,Phase I,Rare Disease,18,2.059,1.788,True
+SYN-P229,Phase I,Rare Disease,19,2.087,1.535,True
+SYN-P229,Phase I,Rare Disease,20,2.115,1.741,True
+SYN-P229,Phase I,Rare Disease,21,2.143,2.717,True
+SYN-P229,Phase I,Rare Disease,22,2.17,2.596,True
+SYN-P229,Phase I,Rare Disease,23,2.198,2.743,True
+SYN-P229,Phase I,Rare Disease,24,2.226,3.142,True
+SYN-P226,Phase III,Cardiology,1,1.022,1.3,True
+SYN-P226,Phase III,Cardiology,2,1.04,0.9,True
+SYN-P226,Phase III,Cardiology,3,1.058,1.178,True
+SYN-P226,Phase III,Cardiology,4,1.075,0.948,True
+SYN-P226,Phase III,Cardiology,5,1.093,1.085,True
+SYN-P226,Phase III,Cardiology,6,1.111,1.449,True
+SYN-P226,Phase III,Cardiology,7,1.129,1.172,True
+SYN-P226,Phase III,Cardiology,8,1.147,1.373,True
+SYN-P226,Phase III,Cardiology,9,1.165,1.204,True
+SYN-P226,Phase III,Cardiology,10,1.183,0.902,True
+SYN-P226,Phase III,Cardiology,11,1.201,0.98,True
+SYN-P226,Phase III,Cardiology,12,1.219,0.867,True
+SYN-P226,Phase III,Cardiology,13,1.237,1.139,True
+SYN-P226,Phase III,Cardiology,14,1.255,0.961,True
+SYN-P226,Phase III,Cardiology,15,1.273,1.366,True
+SYN-P226,Phase III,Cardiology,16,1.291,1.135,True
+SYN-P226,Phase III,Cardiology,17,1.309,1.23,True
+SYN-P226,Phase III,Cardiology,18,1.326,1.21,True
+SYN-P226,Phase III,Cardiology,19,1.344,1.628,True
+SYN-P226,Phase III,Cardiology,20,1.362,1.206,True
+SYN-P226,Phase III,Cardiology,21,1.38,1.416,True
+SYN-P226,Phase III,Cardiology,22,1.398,1.049,True
+SYN-P226,Phase III,Cardiology,23,1.416,1.725,True
+SYN-P226,Phase III,Cardiology,24,1.434,1.312,True
+SYN-P177,Phase I,Infectious Disease,1,0.965,0.65,True
+SYN-P177,Phase I,Infectious Disease,2,0.982,1.014,True
+SYN-P177,Phase I,Infectious Disease,3,0.999,1.058,True
+SYN-P177,Phase I,Infectious Disease,4,1.016,0.781,True
+SYN-P177,Phase I,Infectious Disease,5,1.032,0.991,True
+SYN-P177,Phase I,Infectious Disease,6,1.049,1.377,True
+SYN-P177,Phase I,Infectious Disease,7,1.066,0.956,True
+SYN-P177,Phase I,Infectious Disease,8,1.083,1.0,True
+SYN-P177,Phase I,Infectious Disease,9,1.1,1.071,True
+SYN-P177,Phase I,Infectious Disease,10,1.117,1.527,True
+SYN-P177,Phase I,Infectious Disease,11,1.134,1.212,True
+SYN-P177,Phase I,Infectious Disease,12,1.151,1.1,True
+SYN-P177,Phase I,Infectious Disease,13,1.168,1.01,True
+SYN-P177,Phase I,Infectious Disease,14,1.185,0.876,True
+SYN-P177,Phase I,Infectious Disease,15,1.202,1.254,True
+SYN-P177,Phase I,Infectious Disease,16,1.219,1.335,True
+SYN-P177,Phase I,Infectious Disease,17,1.236,1.414,True
+SYN-P177,Phase I,Infectious Disease,18,1.252,1.187,True
+SYN-P177,Phase I,Infectious Disease,19,1.269,0.924,True
+SYN-P177,Phase I,Infectious Disease,20,1.286,1.373,True
+SYN-P177,Phase I,Infectious Disease,21,1.303,1.384,True
+SYN-P177,Phase I,Infectious Disease,22,1.32,1.573,True
+SYN-P177,Phase I,Infectious Disease,23,1.337,1.047,True
+SYN-P177,Phase I,Infectious Disease,24,1.354,1.533,True
+SYN-P122,Phase II,Immunology,1,2.226,2.069,True
+SYN-P122,Phase II,Immunology,2,2.265,3.72,True
+SYN-P122,Phase II,Immunology,3,2.304,3.795,True
+SYN-P122,Phase II,Immunology,4,2.343,2.92,True
+SYN-P122,Phase II,Immunology,5,2.382,3.181,True
+SYN-P122,Phase II,Immunology,6,2.421,3.11,True
+SYN-P122,Phase II,Immunology,7,2.46,2.206,True
+SYN-P122,Phase II,Immunology,8,2.499,2.379,True
+SYN-P122,Phase II,Immunology,9,2.538,1.968,True
+SYN-P122,Phase II,Immunology,10,2.577,1.975,True
+SYN-P122,Phase II,Immunology,11,2.616,2.801,True
+SYN-P122,Phase II,Immunology,12,2.655,1.828,True
+SYN-P122,Phase II,Immunology,13,2.694,3.321,True
+SYN-P122,Phase II,Immunology,14,2.734,2.314,True
+SYN-P122,Phase II,Immunology,15,2.773,4.623,True
+SYN-P122,Phase II,Immunology,16,2.812,2.961,True
+SYN-P122,Phase II,Immunology,17,2.851,3.324,True
+SYN-P122,Phase II,Immunology,18,2.89,2.833,True
+SYN-P122,Phase II,Immunology,19,2.929,2.329,True
+SYN-P122,Phase II,Immunology,20,2.968,3.37,True
+SYN-P122,Phase II,Immunology,21,3.007,2.394,True
+SYN-P122,Phase II,Immunology,22,3.046,3.355,True
+SYN-P122,Phase II,Immunology,23,3.085,2.533,True
+SYN-P122,Phase II,Immunology,24,3.124,3.907,True
+SYN-P094,Phase III,Cardiology,1,0.839,0.606,True
+SYN-P094,Phase III,Cardiology,2,0.853,1.014,True
+SYN-P094,Phase III,Cardiology,3,0.868,0.809,True
+SYN-P094,Phase III,Cardiology,4,0.883,1.021,True
+SYN-P094,Phase III,Cardiology,5,0.897,0.824,True
+SYN-P094,Phase III,Cardiology,6,0.912,1.229,True
+SYN-P094,Phase III,Cardiology,7,0.927,0.774,True
+SYN-P094,Phase III,Cardiology,8,0.942,0.811,True
+SYN-P094,Phase III,Cardiology,9,0.956,0.995,True
+SYN-P094,Phase III,Cardiology,10,0.971,0.919,True
+SYN-P094,Phase III,Cardiology,11,0.986,1.192,True
+SYN-P094,Phase III,Cardiology,12,1.0,1.244,True
+SYN-P094,Phase III,Cardiology,13,1.015,1.235,True
+SYN-P094,Phase III,Cardiology,14,1.03,1.024,True
+SYN-P094,Phase III,Cardiology,15,1.045,0.821,True
+SYN-P094,Phase III,Cardiology,16,1.059,1.033,True
+SYN-P094,Phase III,Cardiology,17,1.074,1.336,True
+SYN-P094,Phase III,Cardiology,18,1.089,0.972,True
+SYN-P094,Phase III,Cardiology,19,1.103,1.814,True
+SYN-P094,Phase III,Cardiology,20,1.118,1.071,True
+SYN-P094,Phase III,Cardiology,21,1.133,1.085,True
+SYN-P094,Phase III,Cardiology,22,1.148,1.131,True
+SYN-P094,Phase III,Cardiology,23,1.162,1.078,True
+SYN-P094,Phase III,Cardiology,24,1.177,1.021,True
+SYN-P020,Preclinical,Immunology,1,0.277,0.302,True
+SYN-P020,Preclinical,Immunology,2,0.282,0.261,True
+SYN-P020,Preclinical,Immunology,3,0.287,0.292,True
+SYN-P020,Preclinical,Immunology,4,0.292,0.368,True
+SYN-P020,Preclinical,Immunology,5,0.297,0.345,True
+SYN-P020,Preclinical,Immunology,6,0.301,0.303,True
+SYN-P020,Preclinical,Immunology,7,0.306,0.289,True
+SYN-P020,Preclinical,Immunology,8,0.311,0.36,True
+SYN-P020,Preclinical,Immunology,9,0.316,0.264,True
+SYN-P020,Preclinical,Immunology,10,0.321,0.315,True
+SYN-P020,Preclinical,Immunology,11,0.326,0.428,True
+SYN-P020,Preclinical,Immunology,12,0.331,0.391,True
+SYN-P020,Preclinical,Immunology,13,0.336,0.428,True
+SYN-P020,Preclinical,Immunology,14,0.34,0.301,True
+SYN-P020,Preclinical,Immunology,15,0.345,0.382,True
+SYN-P020,Preclinical,Immunology,16,0.35,0.336,True
+SYN-P020,Preclinical,Immunology,17,0.355,0.274,True
+SYN-P020,Preclinical,Immunology,18,0.36,0.356,True
+SYN-P020,Preclinical,Immunology,19,0.365,0.354,True
+SYN-P020,Preclinical,Immunology,20,0.37,0.4,True
+SYN-P020,Preclinical,Immunology,21,0.374,0.322,True
+SYN-P020,Preclinical,Immunology,22,0.379,0.357,True
+SYN-P020,Preclinical,Immunology,23,0.384,0.332,True
+SYN-P020,Preclinical,Immunology,24,0.389,0.422,True
+SYN-P066,Phase I,Cardiology,1,1.317,1.274,True
+SYN-P066,Phase I,Cardiology,2,1.34,1.252,True
+SYN-P066,Phase I,Cardiology,3,1.363,1.324,True
+SYN-P066,Phase I,Cardiology,4,1.386,1.082,True
+SYN-P066,Phase I,Cardiology,5,1.409,1.424,True
+SYN-P066,Phase I,Cardiology,6,1.432,1.785,True
+SYN-P066,Phase I,Cardiology,7,1.455,1.478,True
+SYN-P066,Phase I,Cardiology,8,1.478,1.515,True
+SYN-P066,Phase I,Cardiology,9,1.502,1.672,True
+SYN-P066,Phase I,Cardiology,10,1.525,1.876,True
+SYN-P066,Phase I,Cardiology,11,1.548,1.439,True
+SYN-P066,Phase I,Cardiology,12,1.571,1.472,True
+SYN-P066,Phase I,Cardiology,13,1.594,1.752,True
+SYN-P066,Phase I,Cardiology,14,1.617,1.523,True
+SYN-P066,Phase I,Cardiology,15,1.64,1.222,True
+SYN-P066,Phase I,Cardiology,16,1.663,1.645,True
+SYN-P066,Phase I,Cardiology,17,1.686,1.765,True
+SYN-P066,Phase I,Cardiology,18,1.709,1.562,True
+SYN-P066,Phase I,Cardiology,19,1.733,1.627,True
+SYN-P066,Phase I,Cardiology,20,1.756,2.007,True
+SYN-P066,Phase I,Cardiology,21,1.779,2.098,True
+SYN-P066,Phase I,Cardiology,22,1.802,1.664,True
+SYN-P066,Phase I,Cardiology,23,1.825,1.712,True
+SYN-P066,Phase I,Cardiology,24,1.848,1.756,True
